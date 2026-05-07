@@ -34,3 +34,8 @@ htmlcov/
 # Spacy models
 *.pkl
 *.bin
+
+# ML Models
+app/models/ml_models/*.pkl
+app/models/ml_models/*.bin
+!app/models/ml_models/.gitkeep
