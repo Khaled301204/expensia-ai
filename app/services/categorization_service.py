@@ -23,107 +23,154 @@ class CategorizationService:
             "Other"
         ]
         
-        # Training data (expanded dataset)
+        # Training data - DESCRIPTION FOCUSED (merchant optional)
         self.training_data = [
-            # Food & Dining
-            ("lunch at restaurant", "Food & Dining"),
-            ("dinner pizza hut", "Food & Dining"),
-            ("coffee starbucks", "Food & Dining"),
-            ("breakfast mcdonalds", "Food & Dining"),
-            ("grocery store", "Food & Dining"),
-            ("food delivery", "Food & Dining"),
-            ("restaurant bill", "Food & Dining"),
-            ("kfc chicken", "Food & Dining"),
-            ("subway sandwich", "Food & Dining"),
-            ("burger king", "Food & Dining"),
-            ("dominos pizza", "Food & Dining"),
-            ("cafe costa", "Food & Dining"),
-            ("supermarket shopping", "Food & Dining"),
-            ("carrefour groceries", "Food & Dining"),
+            # Food & Dining - Focus on food-related descriptions
+            ("lunch meal", "Food & Dining"),
+            ("dinner eating", "Food & Dining"),
+            ("breakfast morning meal", "Food & Dining"),
+            ("coffee drink", "Food & Dining"),
+            ("food order", "Food & Dining"),
+            ("restaurant dining", "Food & Dining"),
+            ("cafe snack", "Food & Dining"),
+            ("groceries shopping", "Food & Dining"),
+            ("pizza order", "Food & Dining"),
+            ("burger meal", "Food & Dining"),
+            ("chicken food", "Food & Dining"),
+            ("sandwich lunch", "Food & Dining"),
+            ("supermarket groceries", "Food & Dining"),
+            ("fast food", "Food & Dining"),
+            ("delivery food", "Food & Dining"),
+            ("snack quick bite", "Food & Dining"),
+            ("bakery bread", "Food & Dining"),
+            ("ice cream dessert", "Food & Dining"),
+            ("sushi japanese food", "Food & Dining"),
+            ("pasta italian", "Food & Dining"),
             
-            # Transportation
-            ("uber ride", "Transportation"),
-            ("taxi fare", "Transportation"),
-            ("gas station", "Transportation"),
-            ("fuel petrol", "Transportation"),
+            # Transportation - Focus on transport/travel descriptions
+            ("taxi ride", "Transportation"),
+            ("uber trip", "Transportation"),
+            ("ride sharing", "Transportation"),
+            ("gas fuel", "Transportation"),
+            ("petrol station", "Transportation"),
             ("car wash", "Transportation"),
             ("parking fee", "Transportation"),
             ("metro ticket", "Transportation"),
             ("bus fare", "Transportation"),
-            ("careem ride", "Transportation"),
-            ("lyft trip", "Transportation"),
+            ("public transport", "Transportation"),
             ("toll road", "Transportation"),
             ("car maintenance", "Transportation"),
+            ("vehicle service", "Transportation"),
             ("oil change", "Transportation"),
+            ("tire repair", "Transportation"),
+            ("bike rental", "Transportation"),
+            ("train ticket", "Transportation"),
+            ("subway pass", "Transportation"),
             
-            # Shopping
-            ("amazon purchase", "Shopping"),
-            ("clothes shopping", "Shopping"),
-            ("shoes bought", "Shopping"),
-            ("electronics store", "Shopping"),
+            # Shopping - Focus on purchase descriptions
+            ("shopping clothes", "Shopping"),
+            ("bought shoes", "Shopping"),
+            ("purchase items", "Shopping"),
             ("online shopping", "Shopping"),
-            ("zara clothes", "Shopping"),
-            ("h&m shopping", "Shopping"),
-            ("noon order", "Shopping"),
-            ("jumia purchase", "Shopping"),
+            ("store bought", "Shopping"),
             ("mall shopping", "Shopping"),
-            ("nike shoes", "Shopping"),
-            ("adidas store", "Shopping"),
+            ("fashion clothing", "Shopping"),
+            ("electronics gadget", "Shopping"),
+            ("appliance purchase", "Shopping"),
+            ("furniture bought", "Shopping"),
+            ("accessories shopping", "Shopping"),
+            ("jewelry purchase", "Shopping"),
+            ("toys games", "Shopping"),
+            ("sports equipment", "Shopping"),
+            ("home decor", "Shopping"),
+            ("book shopping", "Shopping"),
             
-            # Entertainment
-            ("movie ticket", "Entertainment"),
-            ("cinema vox", "Entertainment"),
-            ("netflix subscription", "Entertainment"),
-            ("spotify premium", "Entertainment"),
+            # Entertainment - Focus on fun/leisure descriptions
+            ("movie cinema", "Entertainment"),
+            ("film ticket", "Entertainment"),
+            ("streaming subscription", "Entertainment"),
+            ("music premium", "Entertainment"),
             ("game purchase", "Entertainment"),
+            ("video game", "Entertainment"),
             ("concert ticket", "Entertainment"),
-            ("theater show", "Entertainment"),
-            ("youtube premium", "Entertainment"),
-            ("playstation game", "Entertainment"),
-            ("xbox game pass", "Entertainment"),
+            ("show event", "Entertainment"),
+            ("theater play", "Entertainment"),
+            ("amusement park", "Entertainment"),
+            ("sports event", "Entertainment"),
+            ("hobby leisure", "Entertainment"),
+            ("entertainment subscription", "Entertainment"),
             
-            # Bills & Utilities
+            # Bills & Utilities - Focus on recurring payment descriptions
             ("electricity bill", "Bills & Utilities"),
-            ("water bill", "Bills & Utilities"),
+            ("power bill", "Bills & Utilities"),
+            ("water utility", "Bills & Utilities"),
             ("internet bill", "Bills & Utilities"),
+            ("wifi service", "Bills & Utilities"),
             ("phone bill", "Bills & Utilities"),
+            ("mobile service", "Bills & Utilities"),
             ("rent payment", "Bills & Utilities"),
-            ("gas bill", "Bills & Utilities"),
-            ("we internet", "Bills & Utilities"),
-            ("vodafone mobile", "Bills & Utilities"),
-            ("etisalat bill", "Bills & Utilities"),
+            ("gas utility", "Bills & Utilities"),
+            ("cable tv", "Bills & Utilities"),
+            ("insurance payment", "Bills & Utilities"),
+            ("subscription monthly", "Bills & Utilities"),
             
-            # Healthcare
+            # Healthcare - Focus on medical descriptions
             ("pharmacy medicine", "Healthcare"),
             ("doctor visit", "Healthcare"),
+            ("medical appointment", "Healthcare"),
             ("hospital bill", "Healthcare"),
             ("dental checkup", "Healthcare"),
+            ("teeth cleaning", "Healthcare"),
             ("lab test", "Healthcare"),
             ("prescription drugs", "Healthcare"),
             ("clinic consultation", "Healthcare"),
+            ("health checkup", "Healthcare"),
+            ("eye exam", "Healthcare"),
+            ("therapy session", "Healthcare"),
             
-            # Education
+            # Education - Focus on learning descriptions
             ("course fee", "Education"),
-            ("book purchase", "Education"),
+            ("online course", "Education"),
+            ("training workshop", "Education"),
+            ("book textbook", "Education"),
             ("tuition payment", "Education"),
-            ("udemy course", "Education"),
-            ("coursera subscription", "Education"),
+            ("school fee", "Education"),
+            ("certification exam", "Education"),
+            ("learning subscription", "Education"),
             ("school supplies", "Education"),
+            ("stationery items", "Education"),
             
-            # Travel
+            # Travel - Focus on trip/vacation descriptions
             ("hotel booking", "Travel"),
+            ("accommodation stay", "Travel"),
             ("flight ticket", "Travel"),
-            ("airbnb stay", "Travel"),
-            ("booking.com hotel", "Travel"),
+            ("airplane travel", "Travel"),
+            ("vacation trip", "Travel"),
+            ("travel booking", "Travel"),
+            ("rental stay", "Travel"),
             ("travel insurance", "Travel"),
-            ("visa fee", "Travel"),
+            ("visa application", "Travel"),
+            ("passport fee", "Travel"),
+            ("luggage baggage", "Travel"),
+            ("tourist attraction", "Travel"),
             
-            # Personal Care
-            ("haircut salon", "Personal Care"),
+            # Personal Care - Focus on self-care descriptions
+            ("haircut grooming", "Personal Care"),
+            ("salon service", "Personal Care"),
             ("gym membership", "Personal Care"),
+            ("fitness training", "Personal Care"),
             ("spa treatment", "Personal Care"),
-            ("cosmetics", "Personal Care"),
-            ("barbershop", "Personal Care"),
+            ("massage therapy", "Personal Care"),
+            ("cosmetics beauty", "Personal Care"),
+            ("skincare products", "Personal Care"),
+            ("barbershop shave", "Personal Care"),
+            ("nail salon", "Personal Care"),
+            ("wellness service", "Personal Care"),
+            
+            # Other - Miscellaneous
+            ("miscellaneous expense", "Other"),
+            ("other payment", "Other"),
+            ("general purchase", "Other"),
         ]
         
         # Load or train model
@@ -179,20 +226,32 @@ class CategorizationService:
     
     def categorize(self, description: str, merchant: str = None, amount: float = None) -> dict:
         """
-        Categorize an expense based on description and optional merchant
+        Categorize an expense based on description (merchant is optional)
         
         Args:
-            description: Expense description
-            merchant: Optional merchant name
-            amount: Optional amount (not used in current model but available for future)
+            description: REQUIRED - Main expense description (e.g., "lunch", "taxi ride")
+            merchant: OPTIONAL - Merchant name (e.g., "Pizza Hut", "Uber") - improves accuracy
+            amount: OPTIONAL - Amount (not currently used, available for future features)
         
         Returns:
             dict with category, confidence, and alternatives
+        
+        Examples:
+            categorize("lunch") -> "Food & Dining"
+            categorize("lunch", "Pizza Hut") -> "Food & Dining" (higher confidence)
+            categorize("taxi ride") -> "Transportation"
+            categorize("bought shoes", "Nike") -> "Shopping"
         """
-        # Combine description and merchant for better accuracy
-        text = description.lower()
-        if merchant:
-            text = f"{text} {merchant.lower()}"
+        # Validate description is provided
+        if not description or not description.strip():
+            raise ValueError("Description is required for categorization")
+        
+        # Primary text is the description
+        text = description.lower().strip()
+        
+        # Add merchant only if provided and not empty (optional bonus)
+        if merchant and merchant.strip():
+            text = f"{text} {merchant.lower().strip()}"
         
         # Get prediction
         category = self.model.predict([text])[0]
@@ -216,22 +275,26 @@ class CategorizationService:
             "alternatives": alternatives
         }
     
-    def add_training_data(self, description: str, merchant: str, category: str):
+    def add_training_data(self, description: str, merchant: str = None, category: str = None):
         """
         Add new training data and retrain the model
         
         Args:
             description: Expense description
-            merchant: Merchant name
+            merchant: Optional merchant name
             category: Correct category
         """
-        text = description.lower()
-        if merchant:
-            text = f"{text} {merchant.lower()}"
+        # Build training text (description is primary)
+        text = description.lower().strip()
+        if merchant and merchant.strip():
+            text = f"{text} {merchant.lower().strip()}"
         
         self.training_data.append((text, category))
         
         # Retrain model with new data
         self._train_model()
         
-        return {"message": "Model retrained with new data", "total_samples": len(self.training_data)}
+        return {
+            "message": "Model retrained with new data",
+            "total_samples": len(self.training_data)
+        }
