@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.routes import categorization, nlp
+from app.api.routes import categorization, nlp, recommendation
 
 app = FastAPI(
     title="Expensia AI Service",
@@ -8,7 +8,6 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# CORS middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:8080", "*"],
@@ -20,6 +19,7 @@ app.add_middleware(
 # Include routers
 app.include_router(categorization.router, prefix="/api", tags=["Categorization"])
 app.include_router(nlp.router, prefix="/api", tags=["NLP Parsing"])
+app.include_router(recommendation.router, prefix="/api", tags=["Recommendations"])
 
 @app.get("/")
 def root():
@@ -28,11 +28,12 @@ def root():
         "version": "1.0.0",
         "status": "active",
         "features": {
-            "categorization": "✅ Active (ML Model)",
-            "nlp_parsing": "✅ Active",
-            "combined_parsing": "✅ Active",
-            "speech_to_text": "⏳ Coming Soon",
-            "forecasting": "⏳ Coming Soon"
+            "categorization": " Active (ML Model)",
+            "nlp_parsing": " Active",
+            "combined_parsing": " Active",
+            "recommendations": " Active",
+            "speech_to_text": " Coming Soon",
+            "forecasting": " Coming Soon"
         }
     }
 
@@ -42,5 +43,6 @@ def health_check():
         "status": "healthy",
         "service": "expensia-ai",
         "ml_model": "loaded",
-        "nlp_parser": "active"
+        "nlp_parser": "active",
+        "recommendation_engine": "active"
     }
