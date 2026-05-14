@@ -123,18 +123,21 @@ class RecommendationService:
         """
         Generate personalized saving recommendations
         """
+        # Clamp disposable income to non-negative
+        safe_disposable = max(0, disposable_income)
+        
         # Recommended saving rate: 20-30% of income
         ideal_saving = monthly_income * 0.20
         
-        if disposable_income < 0:
-            # Spending more than earning
+        if disposable_income <= 0:
+            # Spending more than or equal to earning
             return {
                 "monthly_target": 0,
                 "breakdown": {},
                 "timeline_months": 0,
                 "recommendations": [
-                    "You're spending more than you earn",
-                    f"Reduce expenses by {abs(disposable_income):.0f} EGP monthly",
+                    "Current spending exceeds or matches income",
+                    f"Reduce expenses by {abs(disposable_income):.0f} EGP to start saving",
                     "Focus on cutting non-essential spending",
                     "Consider increasing income sources"
                 ]
@@ -145,15 +148,15 @@ class RecommendationService:
         emergency_needed = max(0, emergency_target - current_savings)
         
         # Breakdown of saving allocation
-        if disposable_income >= ideal_saving:
+        if safe_disposable >= ideal_saving:
             # Can save comfortably
             breakdown = {
-                "emergency_fund": min(disposable_income * 0.50, emergency_needed),
-                "investments": disposable_income * 0.30,
-                "goals": disposable_income * 0.20
+                "emergency_fund": min(safe_disposable * 0.50, emergency_needed),
+                "investments": safe_disposable * 0.30,
+                "goals": safe_disposable * 0.20
             }
             recommendations = [
-                f"Excellent! You can save {disposable_income:.0f} EGP monthly",
+                f"Excellent! You can save {safe_disposable:.0f} EGP monthly",
                 f"Build emergency fund: {breakdown['emergency_fund']:.0f} EGP/month",
                 f"Invest for growth: {breakdown['investments']:.0f} EGP/month",
                 f"Save for goals: {breakdown['goals']:.0f} EGP/month"
@@ -161,21 +164,25 @@ class RecommendationService:
         else:
             # Tight budget
             breakdown = {
-                "emergency_fund": min(disposable_income * 0.70, emergency_needed),
-                "flexible": disposable_income * 0.30
+                "emergency_fund": min(safe_disposable * 0.70, emergency_needed),
+                "flexible": safe_disposable * 0.30
             }
             recommendations = [
-                f"You can save {disposable_income:.0f} EGP monthly",
+                f"You can save {safe_disposable:.0f} EGP monthly",
                 f"Priority: Emergency fund ({breakdown['emergency_fund']:.0f} EGP/month)",
                 f"Flexible savings: {breakdown['flexible']:.0f} EGP/month",
                 "Focus on building a 3-month safety net first"
             ]
         
-        # Calculate timeline to emergency fund
-        timeline_months = int(emergency_needed / breakdown.get("emergency_fund", 1)) if emergency_needed > 0 else 0
+        # Calculate timeline to emergency fund (clamp to prevent division by zero)
+        emergency_monthly = breakdown.get("emergency_fund", 0)
+        if emergency_monthly > 0 and emergency_needed > 0:
+            timeline_months = int(emergency_needed / emergency_monthly)
+        else:
+            timeline_months = 0
         
         return {
-            "monthly_target": round(disposable_income, 2),
+            "monthly_target": round(safe_disposable, 2),
             "breakdown": {k: round(v, 2) for k, v in breakdown.items()},
             "timeline_months": timeline_months,
             "recommendations": recommendations
@@ -190,9 +197,12 @@ class RecommendationService:
         """
         Generate investment suggestions based on risk profile
         """
+        # Clamp disposable income to non-negative
+        safe_disposable = max(0, disposable_income)
+        
         suggestions = []
         
-        if disposable_income <= 0:
+        if safe_disposable <= 0:
             return [{
                 "type": "NONE",
                 "suggested_amount": 0,
@@ -205,7 +215,7 @@ class RecommendationService:
         if risk_preference in ["LOW", "MEDIUM"]:
             suggestions.append({
                 "type": "SAVINGS_ACCOUNT",
-                "suggested_amount": round(disposable_income * 0.30, 2),
+                "suggested_amount": round(safe_disposable * 0.30, 2),
                 "expected_return": "3-5% annually",
                 "risk_level": "Very Low",
                 "recommendation": "High-yield savings account for emergency fund and short-term goals"
@@ -213,7 +223,7 @@ class RecommendationService:
             
             suggestions.append({
                 "type": "GOVERNMENT_BONDS",
-                "suggested_amount": round(disposable_income * 0.25, 2),
+                "suggested_amount": round(safe_disposable * 0.25, 2),
                 "expected_return": "8-12% annually",
                 "risk_level": "Low",
                 "recommendation": "Egyptian treasury bills or bonds for stable returns"
@@ -223,7 +233,7 @@ class RecommendationService:
         if risk_preference in ["MEDIUM", "HIGH"]:
             suggestions.append({
                 "type": "MUTUAL_FUNDS",
-                "suggested_amount": round(disposable_income * 0.30, 2),
+                "suggested_amount": round(safe_disposable * 0.30, 2),
                 "expected_return": "10-15% annually",
                 "risk_level": "Medium",
                 "recommendation": "Balanced mutual funds with mix of stocks and bonds"
@@ -231,7 +241,7 @@ class RecommendationService:
             
             suggestions.append({
                 "type": "GOLD",
-                "suggested_amount": round(disposable_income * 0.15, 2),
+                "suggested_amount": round(safe_disposable * 0.15, 2),
                 "expected_return": "5-10% annually",
                 "risk_level": "Low-Medium",
                 "recommendation": "Gold as hedge against inflation"
@@ -241,7 +251,7 @@ class RecommendationService:
         if risk_preference == "HIGH" and current_savings > 20000:
             suggestions.append({
                 "type": "STOCK_MARKET",
-                "suggested_amount": round(disposable_income * 0.25, 2),
+                "suggested_amount": round(safe_disposable * 0.25, 2),
                 "expected_return": "12-20% annually",
                 "risk_level": "High",
                 "recommendation": "Egyptian Stock Exchange (EGX) for growth potential"
@@ -267,13 +277,16 @@ class RecommendationService:
         """
         goal_plans = []
         
+        # Clamp disposable income to non-negative
+        safe_disposable = max(0, disposable_income)
+        
         for goal in goals:
             target = goal.get("target_amount", 0)
             current = goal.get("current_amount", 0)
             deadline_str = goal.get("deadline", "")
             
-            # Calculate remaining amount
-            remaining = target - current
+            # Calculate remaining amount (clamp to non-negative)
+            remaining = max(0, target - current)
             
             # Calculate months to deadline
             try:
@@ -283,19 +296,24 @@ class RecommendationService:
             except:
                 months_left = 12  # Default to 1 year
             
-            # Calculate required monthly saving
-            monthly_required = remaining / months_left if months_left > 0 else remaining
+            # Calculate required monthly saving (clamp to non-negative)
+            monthly_required = max(0, remaining / months_left) if months_left > 0 else max(0, remaining)
             
             # Determine feasibility
-            if monthly_required <= disposable_income * 0.30:
+            if safe_disposable <= 0:
+                feasibility = "IMPOSSIBLE"
+                recommendation = "Current spending exceeds income. Reduce expenses before pursuing goals."
+            elif monthly_required <= safe_disposable * 0.30:
                 feasibility = "EASY"
-                recommendation = f"Very achievable! Save {monthly_required:.0f} EGP monthly ({(monthly_required/disposable_income*100):.0f}% of disposable income)"
-            elif monthly_required <= disposable_income * 0.60:
+                recommendation = f"Very achievable! Save {monthly_required:.0f} EGP monthly ({(monthly_required/safe_disposable*100):.0f}% of disposable income)"
+            elif monthly_required <= safe_disposable * 0.60:
                 feasibility = "MODERATE"
-                recommendation = f"Achievable with discipline. Save {monthly_required:.0f} EGP monthly ({(monthly_required/disposable_income*100):.0f}% of disposable income)"
+                recommendation = f"Achievable with discipline. Save {monthly_required:.0f} EGP monthly ({(monthly_required/safe_disposable*100):.0f}% of disposable income)"
             else:
                 feasibility = "DIFFICULT"
-                recommendation = f"Challenging. Consider extending deadline or saving {disposable_income * 0.60:.0f} EGP monthly"
+                # Suggest max safe amount (60% of disposable income)
+                max_safe_saving = safe_disposable * 0.60
+                recommendation = f"Challenging. Consider extending deadline or saving {max_safe_saving:.0f} EGP monthly (max sustainable amount)"
             
             goal_plans.append({
                 "goal_name": goal.get("name", "Unnamed Goal"),

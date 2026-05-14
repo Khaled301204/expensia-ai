@@ -10,7 +10,7 @@ class PatternDetectionService:
         Analyze all spending patterns from transaction history
         
         Args:
-            transactions: List of {date, category, amount, merchant, day_of_week}
+            transactions: List of {date, category, amount, merchant, day_of_week (optional)}
         
         Returns:
             Complete pattern analysis
@@ -31,6 +31,34 @@ class PatternDetectionService:
             "trends": trends
         }
     
+    def _extract_day_of_week(self, transaction: Dict) -> str:
+        """
+        Extract day of week from transaction
+        Tries: 1) day_of_week field, 2) parse from date field
+        
+        Returns: Day name in uppercase (MONDAY, TUESDAY, etc.) or UNKNOWN
+        """
+        # Try getting from field first
+        day = transaction.get("day_of_week", "").upper()
+        if day and day != "UNKNOWN":
+            return day
+        
+        # Extract from date
+        date_str = transaction.get("date", "")
+        if not date_str:
+            return "UNKNOWN"
+        
+        try:
+            if isinstance(date_str, str):
+                # Handle ISO format with or without timezone
+                date_obj = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+            else:
+                date_obj = date_str
+            
+            return date_obj.strftime("%A").upper()  # MONDAY, TUESDAY, etc.
+        except Exception:
+            return "UNKNOWN"
+    
     def _detect_temporal_patterns(self, transactions: List[Dict]) -> Dict:
         """Detect time-based spending patterns"""
         
@@ -39,12 +67,13 @@ class PatternDetectionService:
         weekday_spending = []
         
         for t in transactions:
-            day = t.get("day_of_week", "").upper()
+            # Extract day of week (from field or date)
+            day = self._extract_day_of_week(t)
             amount = float(t.get("amount", 0))
             
             if day in ["SATURDAY", "SUNDAY"]:
                 weekend_spending.append(amount)
-            else:
+            elif day != "UNKNOWN":
                 weekday_spending.append(amount)
         
         # Calculate averages
@@ -99,9 +128,14 @@ class PatternDetectionService:
         # Count by day of week
         day_totals = defaultdict(float)
         for t in transactions:
-            day = t.get("day_of_week", "UNKNOWN")
+            # Extract day of week (from field or date)
+            day = self._extract_day_of_week(t)
             amount = float(t.get("amount", 0))
             day_totals[day] += amount
+        
+        # Remove UNKNOWN from consideration for primary day
+        if "UNKNOWN" in day_totals and len(day_totals) > 1:
+            del day_totals["UNKNOWN"]
         
         primary_day = max(day_totals.items(), key=lambda x: x[1])[0] if day_totals else "UNKNOWN"
         
@@ -139,7 +173,7 @@ class PatternDetectionService:
             amount = float(t.get("amount", 0))
             by_category[category].append((t, amount))
         
-        # Find outliers (> 2x average in category)
+        # Find outliers (> 2.5x average in category)
         for category, items in by_category.items():
             if len(items) < 3:
                 continue

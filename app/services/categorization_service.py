@@ -20,6 +20,7 @@ class CategorizationService:
             "Education",
             "Travel",
             "Personal Care",
+            "Electronics & Tech",
             "Other"
         ]
         
@@ -182,13 +183,13 @@ class CategorizationService:
             try:
                 with open(self.model_path, 'rb') as f:
                     self.model = pickle.load(f)
-                print("✅ Categorization model loaded successfully")
+                print("Categorization model loaded successfully")
             except Exception as e:
-                print(f"⚠️ Error loading model: {e}")
-                print("🔄 Training new model...")
+                print(f"Error loading model: {e}")
+                print("Training new model...")
                 self._train_model()
         else:
-            print("📚 No existing model found. Training new model...")
+            print("No existing model found. Training new model...")
             self._train_model()
     
     def _train_model(self):
@@ -214,15 +215,15 @@ class CategorizationService:
         # Save the model
         self._save_model()
         
-        print("✅ Model trained successfully!")
-        print(f"📊 Training samples: {len(X_train)}")
+        print("Model trained successfully!")
+        print(f"Training samples: {len(X_train)}")
     
     def _save_model(self):
         """Save the trained model to disk"""
         os.makedirs(os.path.dirname(self.model_path), exist_ok=True)
         with open(self.model_path, 'wb') as f:
             pickle.dump(self.model, f)
-        print(f"💾 Model saved to {self.model_path}")
+        print(f"Model saved to {self.model_path}")
     
     def categorize(self, description: str, merchant: str = None, amount: float = None) -> dict:
         """
