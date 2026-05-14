@@ -82,3 +82,85 @@ class RecommendationResponse(BaseModel):
     investment_suggestions: List[InvestmentSuggestion]
     goal_plans: Optional[List[GoalPlan]] = None
     overall_score: float  # 0-100 financial health score
+
+# ========== PATTERN DETECTION MODELS ==========
+
+class PatternAnalysisRequest(BaseModel):
+    user_id: int
+    transactions: List[dict]  # List of expense transactions
+
+class TemporalPatterns(BaseModel):
+    weekend_overspending: bool
+    weekday_average: float
+    weekend_average: float
+    percentage_difference: float
+    payday_spike: bool
+    early_month_average: float
+    late_month_average: float
+
+class BehavioralPatterns(BaseModel):
+    primary_spending_day: str
+    primary_spending_category: str
+    category_preferences: dict
+
+class Anomaly(BaseModel):
+    date: str
+    category: str
+    amount: float
+    normal_amount: float
+    reason: str
+
+class TrendInfo(BaseModel):
+    direction: str  # INCREASING, DECREASING, STABLE
+    change_percentage: float
+    insight: str
+
+class PatternAnalysisResponse(BaseModel):
+    success: bool
+    temporal_patterns: TemporalPatterns
+    behavioral_patterns: BehavioralPatterns
+    anomalies: List[Anomaly]
+    trends: dict  # category -> TrendInfo
+
+
+# ========== FORECASTING MODELS ==========
+
+class MonthlyData(BaseModel):
+    month: str  # YYYY-MM
+    amount: float
+
+class ForecastRequest(BaseModel):
+    user_id: int
+    historical_data: dict  # category -> List[MonthlyData]
+
+class CategoryForecast(BaseModel):
+    predicted: float
+    current_month: float
+    trend: str  # UP, DOWN, STABLE
+    change_percentage: float
+
+class ForecastResponse(BaseModel):
+    success: bool
+    total_predicted: float
+    by_category: dict  # category -> CategoryForecast
+    confidence: float
+    forecast_month: str
+
+
+# ========== COMBINED INSIGHTS MODELS ==========
+
+class CompleteInsightsRequest(BaseModel):
+    user_id: int
+    monthly_income: float
+    monthly_expenses: float
+    current_savings: float
+    risk_preference: str
+    expense_breakdown: dict
+    transactions: List[dict]  # For pattern detection
+    goals: Optional[List[dict]] = None
+
+class CompleteInsightsResponse(BaseModel):
+    success: bool
+    patterns: PatternAnalysisResponse
+    forecast: ForecastResponse
+    recommendations: RecommendationResponse
