@@ -1,0 +1,6002 @@
+[
+  {
+    "description": "coffee from Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 248
+  },
+  {
+    "description": "pants",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3817
+  },
+  {
+    "description": "hospital visit at Seif Pharmacy",
+    "merchant": "Seif Pharmacy",
+    "category": "Healthcare",
+    "amount": 1498
+  },
+  {
+    "description": "university fees at LinkedIn Learning",
+    "merchant": "LinkedIn Learning",
+    "category": "Education",
+    "amount": 8627
+  },
+  {
+    "description": "paid 260 for groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 260
+  },
+  {
+    "description": "weekly shopping from TGI Fridays",
+    "merchant": "TGI Fridays",
+    "category": "Food & Dining",
+    "amount": 419
+  },
+  {
+    "description": "bus fare from Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 250
+  },
+  {
+    "description": "paid 5518 for phone",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 5518
+  },
+  {
+    "description": "takeout from Ovio",
+    "merchant": "Ovio",
+    "category": "Food & Dining",
+    "amount": 653
+  },
+  {
+    "description": "coffee and cake at Taboon",
+    "merchant": "Taboon",
+    "category": "Food & Dining",
+    "amount": 302
+  },
+  {
+    "description": "careem to office at ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 32
+  },
+  {
+    "description": "barber at Salon",
+    "merchant": "Salon",
+    "category": "Personal Care",
+    "amount": 684
+  },
+  {
+    "description": "vacation at Sofitel",
+    "merchant": "Sofitel",
+    "category": "Travel",
+    "amount": 13170
+  },
+  {
+    "description": "car wash",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 73
+  },
+  {
+    "description": "dental checkup",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 3478
+  },
+  {
+    "description": "pizza order at Oscar Market",
+    "merchant": "Oscar Market",
+    "category": "Food & Dining",
+    "amount": 162
+  },
+  {
+    "description": "fitness",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 653
+  },
+  {
+    "description": "t-shirt from Centrepoint",
+    "merchant": "Centrepoint",
+    "category": "Shopping",
+    "amount": 4099
+  },
+  {
+    "description": "gasoline from Wataniya",
+    "merchant": "Wataniya",
+    "category": "Transportation",
+    "amount": 494
+  },
+  {
+    "description": "family dinner from Mohamed Ahmed",
+    "merchant": "Mohamed Ahmed",
+    "category": "Food & Dining",
+    "amount": 558
+  },
+  {
+    "description": "shirt from Vodafone Store",
+    "merchant": "Vodafone Store",
+    "category": "Shopping",
+    "amount": 6271
+  },
+  {
+    "description": "paid 6596 for kitchenware",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6596
+  },
+  {
+    "description": "paid 1866 for medical checkup",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1866
+  },
+  {
+    "description": "pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 645
+  },
+  {
+    "description": "family dinner from Ovio",
+    "merchant": "Ovio",
+    "category": "Food & Dining",
+    "amount": 205
+  },
+  {
+    "description": "paid 373 for ride to work",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 373
+  },
+  {
+    "description": "ride home at Uber Moto",
+    "merchant": "Uber Moto",
+    "category": "Transportation",
+    "amount": 330
+  },
+  {
+    "description": "landline",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 736
+  },
+  {
+    "description": "paid 587 for breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 587
+  },
+  {
+    "description": "haircut",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 1177
+  },
+  {
+    "description": "paid 369 for petrol",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 369
+  },
+  {
+    "description": "paid 1682 for barber",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 1682
+  },
+  {
+    "description": "family dinner at Panda",
+    "merchant": "Panda",
+    "category": "Food & Dining",
+    "amount": 419
+  },
+  {
+    "description": "gas bill at Orange Egypt",
+    "merchant": "Orange Egypt",
+    "category": "Bills & Utilities",
+    "amount": 711
+  },
+  {
+    "description": "dessert at Elmenus",
+    "merchant": "Elmenus",
+    "category": "Food & Dining",
+    "amount": 233
+  },
+  {
+    "description": "utilities from Electricity Company",
+    "merchant": "Electricity Company",
+    "category": "Bills & Utilities",
+    "amount": 300
+  },
+  {
+    "description": "pedicure",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 442
+  },
+  {
+    "description": "paid 155 for airport ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 155
+  },
+  {
+    "description": "pizza order from Pottery Cafe",
+    "merchant": "Pottery Cafe",
+    "category": "Food & Dining",
+    "amount": 537
+  },
+  {
+    "description": "paid 221 for ride to work",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 221
+  },
+  {
+    "description": "taxi",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 379
+  },
+  {
+    "description": "fast food at Taboon",
+    "merchant": "Taboon",
+    "category": "Food & Dining",
+    "amount": 416
+  },
+  {
+    "description": "dessert from Seoudi",
+    "merchant": "Seoudi",
+    "category": "Food & Dining",
+    "amount": 712
+  },
+  {
+    "description": "groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 256
+  },
+  {
+    "description": "paid 858 for doctor visit",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 858
+  },
+  {
+    "description": "paid 82 for breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 82
+  },
+  {
+    "description": "dental checkup from Doctor",
+    "merchant": "Doctor",
+    "category": "Healthcare",
+    "amount": 1456
+  },
+  {
+    "description": "concert",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 275
+  },
+  {
+    "description": "spa",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 895
+  },
+  {
+    "description": "monthly bills at Nile Sat",
+    "merchant": "Nile Sat",
+    "category": "Bills & Utilities",
+    "amount": 1470
+  },
+  {
+    "description": "paid 974 for membership",
+    "merchant": "",
+    "category": "Other",
+    "amount": 974
+  },
+  {
+    "description": "paid 330 for sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 330
+  },
+  {
+    "description": "monthly bills from Internet Provider",
+    "merchant": "Internet Provider",
+    "category": "Bills & Utilities",
+    "amount": 1084
+  },
+  {
+    "description": "uber ride at Car Wash",
+    "merchant": "Car Wash",
+    "category": "Transportation",
+    "amount": 43
+  },
+  {
+    "description": "metro ticket",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 80
+  },
+  {
+    "description": "takeout from Panda",
+    "merchant": "Panda",
+    "category": "Food & Dining",
+    "amount": 435
+  },
+  {
+    "description": "paid 286 for diesel",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 286
+  },
+  {
+    "description": "clothes",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 1713
+  },
+  {
+    "description": "dress at Jumia",
+    "merchant": "Jumia",
+    "category": "Shopping",
+    "amount": 215
+  },
+  {
+    "description": "paid 492 for pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 492
+  },
+  {
+    "description": "parking fee",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 105
+  },
+  {
+    "description": "transportation from Swvl",
+    "merchant": "Swvl",
+    "category": "Transportation",
+    "amount": 316
+  },
+  {
+    "description": "cinema from Apple Music",
+    "merchant": "Apple Music",
+    "category": "Entertainment",
+    "amount": 463
+  },
+  {
+    "description": "udemy course",
+    "merchant": "",
+    "category": "Education",
+    "amount": 12742
+  },
+  {
+    "description": "careem trip",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 488
+  },
+  {
+    "description": "clothes at Nike",
+    "merchant": "Nike",
+    "category": "Shopping",
+    "amount": 6679
+  },
+  {
+    "description": "paid 409 for dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 409
+  },
+  {
+    "description": "paid 680 for coffee and cake",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 680
+  },
+  {
+    "description": "uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 57
+  },
+  {
+    "description": "food delivery",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 495
+  },
+  {
+    "description": "water bill at Nile Sat",
+    "merchant": "Nile Sat",
+    "category": "Bills & Utilities",
+    "amount": 1027
+  },
+  {
+    "description": "paid 738 for lunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 738
+  },
+  {
+    "description": "paid 543 for foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 543
+  },
+  {
+    "description": "internet payment from Etisalat",
+    "merchant": "Etisalat",
+    "category": "Bills & Utilities",
+    "amount": 1039
+  },
+  {
+    "description": "paid 430 for food delivery",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 430
+  },
+  {
+    "description": "paid 273 for sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 273
+  },
+  {
+    "description": "yoga class",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 399
+  },
+  {
+    "description": "ride to work",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 79
+  },
+  {
+    "description": "paid 136 for pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 136
+  },
+  {
+    "description": "cable tv",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 476
+  },
+  {
+    "description": "pharmacy at Nile Badrawi",
+    "merchant": "Nile Badrawi",
+    "category": "Healthcare",
+    "amount": 2803
+  },
+  {
+    "description": "paid 781 for movie tickets",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 781
+  },
+  {
+    "description": "paid 171 for food delivery",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 171
+  },
+  {
+    "description": "ride home from InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 496
+  },
+  {
+    "description": "paid 611 for koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 611
+  },
+  {
+    "description": "breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 228
+  },
+  {
+    "description": "paid 138 for groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 138
+  },
+  {
+    "description": "koshary at Beano's",
+    "merchant": "Beano's",
+    "category": "Food & Dining",
+    "amount": 696
+  },
+  {
+    "description": "bought shoes from Marks & Spencer",
+    "merchant": "Marks & Spencer",
+    "category": "Shopping",
+    "amount": 7667
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 233
+  },
+  {
+    "description": "petrol",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 60
+  },
+  {
+    "description": "paid 3345 for shopping",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3345
+  },
+  {
+    "description": "groceries at Papa John's",
+    "merchant": "Papa John's",
+    "category": "Food & Dining",
+    "amount": 702
+  },
+  {
+    "description": "books",
+    "merchant": "",
+    "category": "Education",
+    "amount": 10396
+  },
+  {
+    "description": "pizza order from Taboon",
+    "merchant": "Taboon",
+    "category": "Food & Dining",
+    "amount": 148
+  },
+  {
+    "description": "bought clothes",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 2336
+  },
+  {
+    "description": "paid 1232 for satellite",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1232
+  },
+  {
+    "description": "fast food at Seoudi",
+    "merchant": "Seoudi",
+    "category": "Food & Dining",
+    "amount": 382
+  },
+  {
+    "description": "fast food",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 289
+  },
+  {
+    "description": "bus fare from Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 445
+  },
+  {
+    "description": "shawarma at Kazaz",
+    "merchant": "Kazaz",
+    "category": "Food & Dining",
+    "amount": 719
+  },
+  {
+    "description": "paid 700 for dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 700
+  },
+  {
+    "description": "dentist at Misr Pharmacy",
+    "merchant": "Misr Pharmacy",
+    "category": "Healthcare",
+    "amount": 583
+  },
+  {
+    "description": "airport ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 471
+  },
+  {
+    "description": "electronics",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 934
+  },
+  {
+    "description": "koshary at Espresso Lab",
+    "merchant": "Espresso Lab",
+    "category": "Food & Dining",
+    "amount": 625
+  },
+  {
+    "description": "commute from Toll Gate",
+    "merchant": "Toll Gate",
+    "category": "Transportation",
+    "amount": 421
+  },
+  {
+    "description": "movies",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 791
+  },
+  {
+    "description": "pharmacy from 19011 Pharmacy",
+    "merchant": "19011 Pharmacy",
+    "category": "Healthcare",
+    "amount": 4839
+  },
+  {
+    "description": "monthly groceries at La Poire",
+    "merchant": "La Poire",
+    "category": "Food & Dining",
+    "amount": 385
+  },
+  {
+    "description": "coffee at El Abd",
+    "merchant": "El Abd",
+    "category": "Food & Dining",
+    "amount": 76
+  },
+  {
+    "description": "shawarma from Taboon",
+    "merchant": "Taboon",
+    "category": "Food & Dining",
+    "amount": 451
+  },
+  {
+    "description": "shirt",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 733
+  },
+  {
+    "description": "paid 105 for benzine",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 105
+  },
+  {
+    "description": "mobile recharge",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 822
+  },
+  {
+    "description": "kitchenware",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 435
+  },
+  {
+    "description": "takeout from La Poire",
+    "merchant": "La Poire",
+    "category": "Food & Dining",
+    "amount": 437
+  },
+  {
+    "description": "cable tv",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 105
+  },
+  {
+    "description": "paid 709 for weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 709
+  },
+  {
+    "description": "paid 486 for brunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 486
+  },
+  {
+    "description": "gym membership",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 851
+  },
+  {
+    "description": "lab tests at Misr Pharmacy",
+    "merchant": "Misr Pharmacy",
+    "category": "Healthcare",
+    "amount": 2804
+  },
+  {
+    "description": "takeout",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 405
+  },
+  {
+    "description": "entertainment from Disney+",
+    "merchant": "Disney+",
+    "category": "Entertainment",
+    "amount": 105
+  },
+  {
+    "description": "paid 2800 for medical treatment",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 2800
+  },
+  {
+    "description": "pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 631
+  },
+  {
+    "description": "uber to mall at Toll Gate",
+    "merchant": "Toll Gate",
+    "category": "Transportation",
+    "amount": 265
+  },
+  {
+    "description": "restaurant meal from Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 336
+  },
+  {
+    "description": "paid 9421 for shopping",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 9421
+  },
+  {
+    "description": "lab tests from El Ezaby Pharmacy",
+    "merchant": "El Ezaby Pharmacy",
+    "category": "Healthcare",
+    "amount": 579
+  },
+  {
+    "description": "foul and falafel at La Poire",
+    "merchant": "La Poire",
+    "category": "Food & Dining",
+    "amount": 253
+  },
+  {
+    "description": "bought clothes",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6557
+  },
+  {
+    "description": "burger meal from Chili's",
+    "merchant": "Chili's",
+    "category": "Food & Dining",
+    "amount": 494
+  },
+  {
+    "description": "ride home at Mobil",
+    "merchant": "Mobil",
+    "category": "Transportation",
+    "amount": 53
+  },
+  {
+    "description": "paid 595 for weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 595
+  },
+  {
+    "description": "koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 355
+  },
+  {
+    "description": "lunch at Pottery Cafe",
+    "merchant": "Pottery Cafe",
+    "category": "Food & Dining",
+    "amount": 148
+  },
+  {
+    "description": "prescription at Nile Badrawi",
+    "merchant": "Nile Badrawi",
+    "category": "Healthcare",
+    "amount": 2160
+  },
+  {
+    "description": "groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 769
+  },
+  {
+    "description": "paid 125 for koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 125
+  },
+  {
+    "description": "paid 659 for gas bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 659
+  },
+  {
+    "description": "doctor visit",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 3995
+  },
+  {
+    "description": "parking fee",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 25
+  },
+  {
+    "description": "careem trip",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 33
+  },
+  {
+    "description": "coffee and cake",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 185
+  },
+  {
+    "description": "consultation at Biolab",
+    "merchant": "Biolab",
+    "category": "Healthcare",
+    "amount": 145
+  },
+  {
+    "description": "breakfast at Panda",
+    "merchant": "Panda",
+    "category": "Food & Dining",
+    "amount": 325
+  },
+  {
+    "description": "car wash at Gas Station",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 479
+  },
+  {
+    "description": "groceries from Estoril",
+    "merchant": "Estoril",
+    "category": "Food & Dining",
+    "amount": 382
+  },
+  {
+    "description": "paid 782 for dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 782
+  },
+  {
+    "description": "dentist at Doctor",
+    "merchant": "Doctor",
+    "category": "Healthcare",
+    "amount": 3335
+  },
+  {
+    "description": "koshary at Domino's Pizza",
+    "merchant": "Domino's Pizza",
+    "category": "Food & Dining",
+    "amount": 457
+  },
+  {
+    "description": "sports from Anghami",
+    "merchant": "Anghami",
+    "category": "Entertainment",
+    "amount": 199
+  },
+  {
+    "description": "gadget from Apple Store",
+    "merchant": "Apple Store",
+    "category": "Shopping",
+    "amount": 7996
+  },
+  {
+    "description": "internet bill at WE",
+    "merchant": "WE",
+    "category": "Bills & Utilities",
+    "amount": 961
+  },
+  {
+    "description": "massage from Maybelline",
+    "merchant": "Maybelline",
+    "category": "Personal Care",
+    "amount": 255
+  },
+  {
+    "description": "hair treatment",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 1252
+  },
+  {
+    "description": "electronics at Marks & Spencer",
+    "merchant": "Marks & Spencer",
+    "category": "Shopping",
+    "amount": 1974
+  },
+  {
+    "description": "car wash",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 53
+  },
+  {
+    "description": "gym session at Anghami",
+    "merchant": "Anghami",
+    "category": "Entertainment",
+    "amount": 601
+  },
+  {
+    "description": "paid 229 for uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 229
+  },
+  {
+    "description": "pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 104
+  },
+  {
+    "description": "paid 342 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 342
+  },
+  {
+    "description": "cinema from World Gym",
+    "merchant": "World Gym",
+    "category": "Entertainment",
+    "amount": 944
+  },
+  {
+    "description": "electricity bill from Internet Provider",
+    "merchant": "Internet Provider",
+    "category": "Bills & Utilities",
+    "amount": 1214
+  },
+  {
+    "description": "language learning",
+    "merchant": "",
+    "category": "Education",
+    "amount": 5580
+  },
+  {
+    "description": "airport ride from Parking",
+    "merchant": "Parking",
+    "category": "Transportation",
+    "amount": 299
+  },
+  {
+    "description": "paid 330 for personal trainer",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 330
+  },
+  {
+    "description": "internet bill from Water Company",
+    "merchant": "Water Company",
+    "category": "Bills & Utilities",
+    "amount": 732
+  },
+  {
+    "description": "paid 5338 for laptop",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 5338
+  },
+  {
+    "description": "parking fee",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 255
+  },
+  {
+    "description": "manicure from Salon",
+    "merchant": "Salon",
+    "category": "Personal Care",
+    "amount": 1097
+  },
+  {
+    "description": "paid 284 for bus fare",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 284
+  },
+  {
+    "description": "brunch at Cilantro",
+    "merchant": "Cilantro",
+    "category": "Food & Dining",
+    "amount": 215
+  },
+  {
+    "description": "paid 266 for commute",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 266
+  },
+  {
+    "description": "sushi dinner from Hardee's",
+    "merchant": "Hardee's",
+    "category": "Food & Dining",
+    "amount": 509
+  },
+  {
+    "description": "hair treatment",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 1212
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 274
+  },
+  {
+    "description": "shirt from Noon",
+    "merchant": "Noon",
+    "category": "Shopping",
+    "amount": 5375
+  },
+  {
+    "description": "pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 768
+  },
+  {
+    "description": "paid 796 for dessert",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 796
+  },
+  {
+    "description": "internet payment",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 666
+  },
+  {
+    "description": "gasoline from Gas Station",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 216
+  },
+  {
+    "description": "cinema at Renaissance",
+    "merchant": "Renaissance",
+    "category": "Entertainment",
+    "amount": 760
+  },
+  {
+    "description": "paid 912 for music subscription",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 912
+  },
+  {
+    "description": "paid 1157 for subscription",
+    "merchant": "",
+    "category": "Other",
+    "amount": 1157
+  },
+  {
+    "description": "headphones at Jumia",
+    "merchant": "Jumia",
+    "category": "Shopping",
+    "amount": 5219
+  },
+  {
+    "description": "medical treatment at Dentist",
+    "merchant": "Dentist",
+    "category": "Healthcare",
+    "amount": 4329
+  },
+  {
+    "description": "pants at Zara",
+    "merchant": "Zara",
+    "category": "Shopping",
+    "amount": 9935
+  },
+  {
+    "description": "paid 6787 for shoes",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6787
+  },
+  {
+    "description": "netflix subscription at Cima Club",
+    "merchant": "Cima Club",
+    "category": "Entertainment",
+    "amount": 911
+  },
+  {
+    "description": "parking fee",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 127
+  },
+  {
+    "description": "fast food",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 148
+  },
+  {
+    "description": "coffee and cake from Estoril",
+    "merchant": "Estoril",
+    "category": "Food & Dining",
+    "amount": 625
+  },
+  {
+    "description": "groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 130
+  },
+  {
+    "description": "paid 3865 for jeans",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3865
+  },
+  {
+    "description": "paid 252 for fast food",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 252
+  },
+  {
+    "description": "phone from Home Centre",
+    "merchant": "Home Centre",
+    "category": "Shopping",
+    "amount": 3729
+  },
+  {
+    "description": "paid 4944 for bought shoes",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 4944
+  },
+  {
+    "description": "burger meal from Beano's",
+    "merchant": "Beano's",
+    "category": "Food & Dining",
+    "amount": 594
+  },
+  {
+    "description": "private lessons at Jarir Bookstore",
+    "merchant": "Jarir Bookstore",
+    "category": "Education",
+    "amount": 3298
+  },
+  {
+    "description": "paid 221 for lunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 221
+  },
+  {
+    "description": "jacket from AliExpress",
+    "merchant": "AliExpress",
+    "category": "Shopping",
+    "amount": 1230
+  },
+  {
+    "description": "coffee and cake at Cafe Greco",
+    "merchant": "Cafe Greco",
+    "category": "Food & Dining",
+    "amount": 585
+  },
+  {
+    "description": "monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 136
+  },
+  {
+    "description": "paid 368 for movies",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 368
+  },
+  {
+    "description": "seminar",
+    "merchant": "",
+    "category": "Education",
+    "amount": 201
+  },
+  {
+    "description": "family dinner from Felfela",
+    "merchant": "Felfela",
+    "category": "Food & Dining",
+    "amount": 437
+  },
+  {
+    "description": "blood tests from Cleopatra Hospital",
+    "merchant": "Cleopatra Hospital",
+    "category": "Healthcare",
+    "amount": 2480
+  },
+  {
+    "description": "cable tv at WE",
+    "merchant": "WE",
+    "category": "Bills & Utilities",
+    "amount": 1376
+  },
+  {
+    "description": "coffee and cake at Papa John's",
+    "merchant": "Papa John's",
+    "category": "Food & Dining",
+    "amount": 224
+  },
+  {
+    "description": "dessert from Metro",
+    "merchant": "Metro",
+    "category": "Food & Dining",
+    "amount": 223
+  },
+  {
+    "description": "weekly shopping from Espresso Lab",
+    "merchant": "Espresso Lab",
+    "category": "Food & Dining",
+    "amount": 450
+  },
+  {
+    "description": "paid 612 for phone bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 612
+  },
+  {
+    "description": "food delivery from TGI Fridays",
+    "merchant": "TGI Fridays",
+    "category": "Food & Dining",
+    "amount": 438
+  },
+  {
+    "description": "paid 186 for benzene",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 186
+  },
+  {
+    "description": "breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 138
+  },
+  {
+    "description": "koshary from Abou Tarek",
+    "merchant": "Abou Tarek",
+    "category": "Food & Dining",
+    "amount": 168
+  },
+  {
+    "description": "takeout at The Coffee Bean",
+    "merchant": "The Coffee Bean",
+    "category": "Food & Dining",
+    "amount": 345
+  },
+  {
+    "description": "coffee and cake",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 675
+  },
+  {
+    "description": "pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 596
+  },
+  {
+    "description": "university fees",
+    "merchant": "",
+    "category": "Education",
+    "amount": 16187
+  },
+  {
+    "description": "paid 267 for landline",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 267
+  },
+  {
+    "description": "takeout from Kazaz",
+    "merchant": "Kazaz",
+    "category": "Food & Dining",
+    "amount": 790
+  },
+  {
+    "description": "hotel stay at Sofitel",
+    "merchant": "Sofitel",
+    "category": "Travel",
+    "amount": 5746
+  },
+  {
+    "description": "commute from Wataniya",
+    "merchant": "Wataniya",
+    "category": "Transportation",
+    "amount": 64
+  },
+  {
+    "description": "personal care at Maybelline",
+    "merchant": "Maybelline",
+    "category": "Personal Care",
+    "amount": 287
+  },
+  {
+    "description": "sushi dinner at Sequoia",
+    "merchant": "Sequoia",
+    "category": "Food & Dining",
+    "amount": 469
+  },
+  {
+    "description": "monthly groceries from Kazaz",
+    "merchant": "Kazaz",
+    "category": "Food & Dining",
+    "amount": 221
+  },
+  {
+    "description": "electricity payment from Orange Egypt",
+    "merchant": "Orange Egypt",
+    "category": "Bills & Utilities",
+    "amount": 760
+  },
+  {
+    "description": "paid 441 for shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 441
+  },
+  {
+    "description": "groceries from KFC",
+    "merchant": "KFC",
+    "category": "Food & Dining",
+    "amount": 349
+  },
+  {
+    "description": "paid 1227 for vet visit",
+    "merchant": "",
+    "category": "Other",
+    "amount": 1227
+  },
+  {
+    "description": "electricity payment from Internet Provider",
+    "merchant": "Internet Provider",
+    "category": "Bills & Utilities",
+    "amount": 498
+  },
+  {
+    "description": "paid 4718 for bedding",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 4718
+  },
+  {
+    "description": "gasoline",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 341
+  },
+  {
+    "description": "paid 89 for snack",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 89
+  },
+  {
+    "description": "new phone at Pottery Barn",
+    "merchant": "Pottery Barn",
+    "category": "Shopping",
+    "amount": 2384
+  },
+  {
+    "description": "paid 11037 for university fees",
+    "merchant": "",
+    "category": "Education",
+    "amount": 11037
+  },
+  {
+    "description": "movies at Energy Gym",
+    "merchant": "Energy Gym",
+    "category": "Entertainment",
+    "amount": 66
+  },
+  {
+    "description": "transportation from Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 95
+  },
+  {
+    "description": "books at Amazon Books",
+    "merchant": "Amazon Books",
+    "category": "Education",
+    "amount": 1594
+  },
+  {
+    "description": "electricity bill from Vodafone Egypt",
+    "merchant": "Vodafone Egypt",
+    "category": "Bills & Utilities",
+    "amount": 340
+  },
+  {
+    "description": "food delivery at Elmenus",
+    "merchant": "Elmenus",
+    "category": "Food & Dining",
+    "amount": 279
+  },
+  {
+    "description": "bedding from H&M",
+    "merchant": "H&M",
+    "category": "Shopping",
+    "amount": 4205
+  },
+  {
+    "description": "shirt",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 1897
+  },
+  {
+    "description": "jeans",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 661
+  },
+  {
+    "description": "healthcare",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 4351
+  },
+  {
+    "description": "paid 292 for restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 292
+  },
+  {
+    "description": "gadget",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 709
+  },
+  {
+    "description": "electricity bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 750
+  },
+  {
+    "description": "shawarma at Cilantro",
+    "merchant": "Cilantro",
+    "category": "Food & Dining",
+    "amount": 41
+  },
+  {
+    "description": "benzene at Shell",
+    "merchant": "Shell",
+    "category": "Transportation",
+    "amount": 404
+  },
+  {
+    "description": "metro ticket at Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 468
+  },
+  {
+    "description": "online order",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 4965
+  },
+  {
+    "description": "furniture from The One",
+    "merchant": "The One",
+    "category": "Shopping",
+    "amount": 956
+  },
+  {
+    "description": "brunch at Starbucks",
+    "merchant": "Starbucks",
+    "category": "Food & Dining",
+    "amount": 232
+  },
+  {
+    "description": "paid 955 for pedicure",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 955
+  },
+  {
+    "description": "paid 588 for brunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 588
+  },
+  {
+    "description": "paid 31 for uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 31
+  },
+  {
+    "description": "paid 182 for coffee",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 182
+  },
+  {
+    "description": "burger meal from Oscar Market",
+    "merchant": "Oscar Market",
+    "category": "Food & Dining",
+    "amount": 261
+  },
+  {
+    "description": "paid 396 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 396
+  },
+  {
+    "description": "bedding",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8605
+  },
+  {
+    "description": "miscellaneous from Insurance Company",
+    "merchant": "Insurance Company",
+    "category": "Other",
+    "amount": 940
+  },
+  {
+    "description": "hair salon from Sephora",
+    "merchant": "Sephora",
+    "category": "Personal Care",
+    "amount": 1176
+  },
+  {
+    "description": "barber",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 579
+  },
+  {
+    "description": "home decor",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6754
+  },
+  {
+    "description": "dessert",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 42
+  },
+  {
+    "description": "paid 1487 for satellite",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1487
+  },
+  {
+    "description": "gasoline from Wataniya",
+    "merchant": "Wataniya",
+    "category": "Transportation",
+    "amount": 61
+  },
+  {
+    "description": "airport ride from Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 481
+  },
+  {
+    "description": "breakfast from Pottery Cafe",
+    "merchant": "Pottery Cafe",
+    "category": "Food & Dining",
+    "amount": 612
+  },
+  {
+    "description": "brunch at Zooba",
+    "merchant": "Zooba",
+    "category": "Food & Dining",
+    "amount": 259
+  },
+  {
+    "description": "hospital visit from Doctor",
+    "merchant": "Doctor",
+    "category": "Healthcare",
+    "amount": 4071
+  },
+  {
+    "description": "mobile recharge at Vodafone Egypt",
+    "merchant": "Vodafone Egypt",
+    "category": "Bills & Utilities",
+    "amount": 394
+  },
+  {
+    "description": "snack",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 514
+  },
+  {
+    "description": "paid 908 for personal care",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 908
+  },
+  {
+    "description": "paid 272 for coffee",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 272
+  },
+  {
+    "description": "fuel at Auto Service",
+    "merchant": "Auto Service",
+    "category": "Transportation",
+    "amount": 61
+  },
+  {
+    "description": "paid 9695 for home decor",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 9695
+  },
+  {
+    "description": "game purchase",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 193
+  },
+  {
+    "description": "ride home at Car Wash",
+    "merchant": "Car Wash",
+    "category": "Transportation",
+    "amount": 439
+  },
+  {
+    "description": "family dinner at Subway",
+    "merchant": "Subway",
+    "category": "Food & Dining",
+    "amount": 259
+  },
+  {
+    "description": "uber ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 383
+  },
+  {
+    "description": "burger meal at Ovio",
+    "merchant": "Ovio",
+    "category": "Food & Dining",
+    "amount": 79
+  },
+  {
+    "description": "paid 670 for koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 670
+  },
+  {
+    "description": "gym session from Renaissance",
+    "merchant": "Renaissance",
+    "category": "Entertainment",
+    "amount": 40
+  },
+  {
+    "description": "paid 751 for pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 751
+  },
+  {
+    "description": "clinic",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 4530
+  },
+  {
+    "description": "paid 134 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 134
+  },
+  {
+    "description": "paid 171 for fuel",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 171
+  },
+  {
+    "description": "fast food",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 421
+  },
+  {
+    "description": "laptop",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3832
+  },
+  {
+    "description": "online order from Apple Store",
+    "merchant": "Apple Store",
+    "category": "Shopping",
+    "amount": 2256
+  },
+  {
+    "description": "entertainment at Galaxy Cinemas",
+    "merchant": "Galaxy Cinemas",
+    "category": "Entertainment",
+    "amount": 717
+  },
+  {
+    "description": "foul and falafel at Al Omda",
+    "merchant": "Al Omda",
+    "category": "Food & Dining",
+    "amount": 533
+  },
+  {
+    "description": "ride to work at Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 215
+  },
+  {
+    "description": "paid 91 for uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 91
+  },
+  {
+    "description": "sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 117
+  },
+  {
+    "description": "paid 1499 for mobile recharge",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1499
+  },
+  {
+    "description": "shopping at Centrepoint",
+    "merchant": "Centrepoint",
+    "category": "Shopping",
+    "amount": 4297
+  },
+  {
+    "description": "pizza order from Al Omda",
+    "merchant": "Al Omda",
+    "category": "Food & Dining",
+    "amount": 562
+  },
+  {
+    "description": "cinema from Anghami",
+    "merchant": "Anghami",
+    "category": "Entertainment",
+    "amount": 933
+  },
+  {
+    "description": "beauty salon",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 428
+  },
+  {
+    "description": "paid 4887 for pharmacy",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 4887
+  },
+  {
+    "description": "paid 428 for breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 428
+  },
+  {
+    "description": "study materials at ILI",
+    "merchant": "ILI",
+    "category": "Education",
+    "amount": 2344
+  },
+  {
+    "description": "paid 461 for shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 461
+  },
+  {
+    "description": "entertainment at Disney+",
+    "merchant": "Disney+",
+    "category": "Entertainment",
+    "amount": 803
+  },
+  {
+    "description": "personal trainer from Steam",
+    "merchant": "Steam",
+    "category": "Entertainment",
+    "amount": 487
+  },
+  {
+    "description": "paid 348 for mobile recharge",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 348
+  },
+  {
+    "description": "headphones from The One",
+    "merchant": "The One",
+    "category": "Shopping",
+    "amount": 7017
+  },
+  {
+    "description": "home decor from Amazon",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "amount": 7574
+  },
+  {
+    "description": "paid 600 for takeout",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 600
+  },
+  {
+    "description": "snack at Gad",
+    "merchant": "Gad",
+    "category": "Food & Dining",
+    "amount": 416
+  },
+  {
+    "description": "education from Nile University",
+    "merchant": "Nile University",
+    "category": "Education",
+    "amount": 10314
+  },
+  {
+    "description": "beauty products",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 554
+  },
+  {
+    "description": "shopping spree",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8925
+  },
+  {
+    "description": "paid 743 for snack",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 743
+  },
+  {
+    "description": "paid 385 for parking fee",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 385
+  },
+  {
+    "description": "clothes from Apple Store",
+    "merchant": "Apple Store",
+    "category": "Shopping",
+    "amount": 1279
+  },
+  {
+    "description": "hair treatment at Beauty Center",
+    "merchant": "Beauty Center",
+    "category": "Personal Care",
+    "amount": 903
+  },
+  {
+    "description": "facial from Maybelline",
+    "merchant": "Maybelline",
+    "category": "Personal Care",
+    "amount": 1047
+  },
+  {
+    "description": "shoes at Mobilia",
+    "merchant": "Mobilia",
+    "category": "Shopping",
+    "amount": 771
+  },
+  {
+    "description": "paid 850 for satellite",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 850
+  },
+  {
+    "description": "sports from Apple Music",
+    "merchant": "Apple Music",
+    "category": "Entertainment",
+    "amount": 834
+  },
+  {
+    "description": "taxi at Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 103
+  },
+  {
+    "description": "ride to work at Parking",
+    "merchant": "Parking",
+    "category": "Transportation",
+    "amount": 112
+  },
+  {
+    "description": "dentist",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 4519
+  },
+  {
+    "description": "shirt from Centrepoint",
+    "merchant": "Centrepoint",
+    "category": "Shopping",
+    "amount": 6664
+  },
+  {
+    "description": "medical checkup at Chowefat Pharmacy",
+    "merchant": "Chowefat Pharmacy",
+    "category": "Healthcare",
+    "amount": 3874
+  },
+  {
+    "description": "groceries at The Coffee Bean",
+    "merchant": "The Coffee Bean",
+    "category": "Food & Dining",
+    "amount": 703
+  },
+  {
+    "description": "paid 717 for laundry",
+    "merchant": "",
+    "category": "Other",
+    "amount": 717
+  },
+  {
+    "description": "breakfast from Ovio",
+    "merchant": "Ovio",
+    "category": "Food & Dining",
+    "amount": 27
+  },
+  {
+    "description": "shirt from Splash",
+    "merchant": "Splash",
+    "category": "Shopping",
+    "amount": 6230
+  },
+  {
+    "description": "paid 47 for sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 47
+  },
+  {
+    "description": "snack from Panda",
+    "merchant": "Panda",
+    "category": "Food & Dining",
+    "amount": 437
+  },
+  {
+    "description": "coffee",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 446
+  },
+  {
+    "description": "ride sharing at Total",
+    "merchant": "Total",
+    "category": "Transportation",
+    "amount": 38
+  },
+  {
+    "description": "paid 1249 for hospital visit",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1249
+  },
+  {
+    "description": "takeout",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 574
+  },
+  {
+    "description": "restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 677
+  },
+  {
+    "description": "paid 425 for uber ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 425
+  },
+  {
+    "description": "pizza order from Costa Coffee",
+    "merchant": "Costa Coffee",
+    "category": "Food & Dining",
+    "amount": 529
+  },
+  {
+    "description": "careem trip at InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 308
+  },
+  {
+    "description": "healthcare from Misr Pharmacy",
+    "merchant": "Misr Pharmacy",
+    "category": "Healthcare",
+    "amount": 1780
+  },
+  {
+    "description": "bought shoes from Adidas",
+    "merchant": "Adidas",
+    "category": "Shopping",
+    "amount": 8174
+  },
+  {
+    "description": "diesel from Gas Station",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 226
+  },
+  {
+    "description": "fast food from Cilantro",
+    "merchant": "Cilantro",
+    "category": "Food & Dining",
+    "amount": 427
+  },
+  {
+    "description": "water bill at Orange Egypt",
+    "merchant": "Orange Egypt",
+    "category": "Bills & Utilities",
+    "amount": 1090
+  },
+  {
+    "description": "paid 433 for uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 433
+  },
+  {
+    "description": "video games",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 955
+  },
+  {
+    "description": "electricity bill from WE",
+    "merchant": "WE",
+    "category": "Bills & Utilities",
+    "amount": 805
+  },
+  {
+    "description": "paid 463 for benzine",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 463
+  },
+  {
+    "description": "ride sharing",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 413
+  },
+  {
+    "description": "food delivery",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 607
+  },
+  {
+    "description": "clothes at Jumia",
+    "merchant": "Jumia",
+    "category": "Shopping",
+    "amount": 6968
+  },
+  {
+    "description": "spotify premium",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 585
+  },
+  {
+    "description": "sushi dinner from Cilantro",
+    "merchant": "Cilantro",
+    "category": "Food & Dining",
+    "amount": 418
+  },
+  {
+    "description": "new phone at Marks & Spencer",
+    "merchant": "Marks & Spencer",
+    "category": "Shopping",
+    "amount": 3075
+  },
+  {
+    "description": "paid 8986 for private lessons",
+    "merchant": "",
+    "category": "Education",
+    "amount": 8986
+  },
+  {
+    "description": "pants from IKEA",
+    "merchant": "IKEA",
+    "category": "Shopping",
+    "amount": 3465
+  },
+  {
+    "description": "gasoline from ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 87
+  },
+  {
+    "description": "snack",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 393
+  },
+  {
+    "description": "wifi at Vodafone Egypt",
+    "merchant": "Vodafone Egypt",
+    "category": "Bills & Utilities",
+    "amount": 1354
+  },
+  {
+    "description": "insurance payment from Insurance Company",
+    "merchant": "Insurance Company",
+    "category": "Other",
+    "amount": 1010
+  },
+  {
+    "description": "careem to office at Uber Moto",
+    "merchant": "Uber Moto",
+    "category": "Transportation",
+    "amount": 127
+  },
+  {
+    "description": "cinema",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 583
+  },
+  {
+    "description": "parking fee at Uber Moto",
+    "merchant": "Uber Moto",
+    "category": "Transportation",
+    "amount": 221
+  },
+  {
+    "description": "petrol",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 218
+  },
+  {
+    "description": "ride to work at Parking",
+    "merchant": "Parking",
+    "category": "Transportation",
+    "amount": 383
+  },
+  {
+    "description": "taxi from Mobil",
+    "merchant": "Mobil",
+    "category": "Transportation",
+    "amount": 419
+  },
+  {
+    "description": "clinic",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1416
+  },
+  {
+    "description": "paid 588 for takeout",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 588
+  },
+  {
+    "description": "paid 8966 for shoes",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8966
+  },
+  {
+    "description": "online order",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6951
+  },
+  {
+    "description": "burger meal from Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 432
+  },
+  {
+    "description": "monthly groceries at Hadramout",
+    "merchant": "Hadramout",
+    "category": "Food & Dining",
+    "amount": 539
+  },
+  {
+    "description": "paid 38 for transportation",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 38
+  },
+  {
+    "description": "internet payment at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 241
+  },
+  {
+    "description": "paid 467 for dessert",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 467
+  },
+  {
+    "description": "paid 456 for lunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 456
+  },
+  {
+    "description": "paid 373 for music subscription",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 373
+  },
+  {
+    "description": "food delivery from KFC",
+    "merchant": "KFC",
+    "category": "Food & Dining",
+    "amount": 450
+  },
+  {
+    "description": "paid 174 for monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 174
+  },
+  {
+    "description": "monthly groceries at Spinneys",
+    "merchant": "Spinneys",
+    "category": "Food & Dining",
+    "amount": 73
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 313
+  },
+  {
+    "description": "takeout from Felfela",
+    "merchant": "Felfela",
+    "category": "Food & Dining",
+    "amount": 550
+  },
+  {
+    "description": "utilities at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 214
+  },
+  {
+    "description": "grooming from Beauty Center",
+    "merchant": "Beauty Center",
+    "category": "Personal Care",
+    "amount": 49
+  },
+  {
+    "description": "ride sharing",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 500
+  },
+  {
+    "description": "metro ticket at Shell",
+    "merchant": "Shell",
+    "category": "Transportation",
+    "amount": 466
+  },
+  {
+    "description": "paid 6676 for shopping spree",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6676
+  },
+  {
+    "description": "concert from Shahid VIP",
+    "merchant": "Shahid VIP",
+    "category": "Entertainment",
+    "amount": 966
+  },
+  {
+    "description": "medical treatment",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 2593
+  },
+  {
+    "description": "paid 178 for snack",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 178
+  },
+  {
+    "description": "groceries from Hadramout",
+    "merchant": "Hadramout",
+    "category": "Food & Dining",
+    "amount": 309
+  },
+  {
+    "description": "paid 7454 for online order",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 7454
+  },
+  {
+    "description": "fuel",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 121
+  },
+  {
+    "description": "benzine at Wataniya",
+    "merchant": "Wataniya",
+    "category": "Transportation",
+    "amount": 195
+  },
+  {
+    "description": "dress at Mobiles Shop",
+    "merchant": "Mobiles Shop",
+    "category": "Shopping",
+    "amount": 6246
+  },
+  {
+    "description": "restaurant meal from Fathalla Market",
+    "merchant": "Fathalla Market",
+    "category": "Food & Dining",
+    "amount": 125
+  },
+  {
+    "description": "transportation from ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 469
+  },
+  {
+    "description": "burger meal from Cilantro",
+    "merchant": "Cilantro",
+    "category": "Food & Dining",
+    "amount": 152
+  },
+  {
+    "description": "restaurant meal at TGI Fridays",
+    "merchant": "TGI Fridays",
+    "category": "Food & Dining",
+    "amount": 238
+  },
+  {
+    "description": "mobile bill from Electricity Company",
+    "merchant": "Electricity Company",
+    "category": "Bills & Utilities",
+    "amount": 325
+  },
+  {
+    "description": "furniture",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 608
+  },
+  {
+    "description": "groceries at Ovio",
+    "merchant": "Ovio",
+    "category": "Food & Dining",
+    "amount": 257
+  },
+  {
+    "description": "game purchase",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 67
+  },
+  {
+    "description": "paid 72 for gym membership",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 72
+  },
+  {
+    "description": "paid 132 for ride sharing",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 132
+  },
+  {
+    "description": "paid 600 for breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 600
+  },
+  {
+    "description": "t-shirt",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 2147
+  },
+  {
+    "description": "paid 1396 for satellite",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1396
+  },
+  {
+    "description": "paid 323 for restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 323
+  },
+  {
+    "description": "paid 276 for uber ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 276
+  },
+  {
+    "description": "tourism from Emirates",
+    "merchant": "Emirates",
+    "category": "Travel",
+    "amount": 4178
+  },
+  {
+    "description": "fast food at Cook Door",
+    "merchant": "Cook Door",
+    "category": "Food & Dining",
+    "amount": 435
+  },
+  {
+    "description": "gas refill at Shell",
+    "merchant": "Shell",
+    "category": "Transportation",
+    "amount": 37
+  },
+  {
+    "description": "koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 754
+  },
+  {
+    "description": "paid 238 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 238
+  },
+  {
+    "description": "brunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 339
+  },
+  {
+    "description": "gas refill at InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 422
+  },
+  {
+    "description": "airbnb",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 8133
+  },
+  {
+    "description": "paid 673 for foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 673
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 667
+  },
+  {
+    "description": "paid 573 for utilities",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 573
+  },
+  {
+    "description": "restaurant meal from Domino's Pizza",
+    "merchant": "Domino's Pizza",
+    "category": "Food & Dining",
+    "amount": 513
+  },
+  {
+    "description": "car wash",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 404
+  },
+  {
+    "description": "monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 554
+  },
+  {
+    "description": "landline from Nile Sat",
+    "merchant": "Nile Sat",
+    "category": "Bills & Utilities",
+    "amount": 196
+  },
+  {
+    "description": "personal trainer",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 185
+  },
+  {
+    "description": "paid 1207 for electricity bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1207
+  },
+  {
+    "description": "paid 2489 for shirt",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 2489
+  },
+  {
+    "description": "wifi at Orange Egypt",
+    "merchant": "Orange Egypt",
+    "category": "Bills & Utilities",
+    "amount": 533
+  },
+  {
+    "description": "shopping at Marks & Spencer",
+    "merchant": "Marks & Spencer",
+    "category": "Shopping",
+    "amount": 5899
+  },
+  {
+    "description": "coffee at Hardee's",
+    "merchant": "Hardee's",
+    "category": "Food & Dining",
+    "amount": 323
+  },
+  {
+    "description": "shirt at Kenoz",
+    "merchant": "Kenoz",
+    "category": "Shopping",
+    "amount": 8301
+  },
+  {
+    "description": "paid 427 for pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 427
+  },
+  {
+    "description": "electricity payment at Internet Provider",
+    "merchant": "Internet Provider",
+    "category": "Bills & Utilities",
+    "amount": 459
+  },
+  {
+    "description": "shopping spree",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6447
+  },
+  {
+    "description": "uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 306
+  },
+  {
+    "description": "paid 259 for dessert",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 259
+  },
+  {
+    "description": "food delivery from Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 756
+  },
+  {
+    "description": "landline from Etisalat",
+    "merchant": "Etisalat",
+    "category": "Bills & Utilities",
+    "amount": 1325
+  },
+  {
+    "description": "sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 110
+  },
+  {
+    "description": "lunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 387
+  },
+  {
+    "description": "ride home from Uber Moto",
+    "merchant": "Uber Moto",
+    "category": "Transportation",
+    "amount": 453
+  },
+  {
+    "description": "laptop",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8011
+  },
+  {
+    "description": "petrol from Uber Moto",
+    "merchant": "Uber Moto",
+    "category": "Transportation",
+    "amount": 423
+  },
+  {
+    "description": "tourism at Hilton",
+    "merchant": "Hilton",
+    "category": "Travel",
+    "amount": 5294
+  },
+  {
+    "description": "dental checkup from Nile Badrawi",
+    "merchant": "Nile Badrawi",
+    "category": "Healthcare",
+    "amount": 2711
+  },
+  {
+    "description": "brunch from Taboon",
+    "merchant": "Taboon",
+    "category": "Food & Dining",
+    "amount": 798
+  },
+  {
+    "description": "coffee and cake from La Poire",
+    "merchant": "La Poire",
+    "category": "Food & Dining",
+    "amount": 311
+  },
+  {
+    "description": "commute at ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 364
+  },
+  {
+    "description": "game purchase from Energy Gym",
+    "merchant": "Energy Gym",
+    "category": "Entertainment",
+    "amount": 543
+  },
+  {
+    "description": "paid 853 for electricity payment",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 853
+  },
+  {
+    "description": "fuel",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 143
+  },
+  {
+    "description": "paid 154 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 154
+  },
+  {
+    "description": "breakfast at Mori Sushi",
+    "merchant": "Mori Sushi",
+    "category": "Food & Dining",
+    "amount": 731
+  },
+  {
+    "description": "benzine at ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 492
+  },
+  {
+    "description": "brunch from Felfela",
+    "merchant": "Felfela",
+    "category": "Food & Dining",
+    "amount": 481
+  },
+  {
+    "description": "car wash",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 273
+  },
+  {
+    "description": "paid 94 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 94
+  },
+  {
+    "description": "t-shirt",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3032
+  },
+  {
+    "description": "paid 434 for mobile recharge",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 434
+  },
+  {
+    "description": "paid 125 for koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 125
+  },
+  {
+    "description": "manicure from Maybelline",
+    "merchant": "Maybelline",
+    "category": "Personal Care",
+    "amount": 1105
+  },
+  {
+    "description": "internet payment",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 547
+  },
+  {
+    "description": "cable tv",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 561
+  },
+  {
+    "description": "foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 528
+  },
+  {
+    "description": "breakfast from Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 490
+  },
+  {
+    "description": "lunch from Subway",
+    "merchant": "Subway",
+    "category": "Food & Dining",
+    "amount": 697
+  },
+  {
+    "description": "coffee and cake at Mori Sushi",
+    "merchant": "Mori Sushi",
+    "category": "Food & Dining",
+    "amount": 365
+  },
+  {
+    "description": "paid 2206 for lab tests",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 2206
+  },
+  {
+    "description": "gas bill at Orange Egypt",
+    "merchant": "Orange Egypt",
+    "category": "Bills & Utilities",
+    "amount": 1255
+  },
+  {
+    "description": "paid 74 for airport ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 74
+  },
+  {
+    "description": "phone",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 635
+  },
+  {
+    "description": "paid 292 for sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 292
+  },
+  {
+    "description": "fast food from Mohamed Ahmed",
+    "merchant": "Mohamed Ahmed",
+    "category": "Food & Dining",
+    "amount": 239
+  },
+  {
+    "description": "paid 530 for game purchase",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 530
+  },
+  {
+    "description": "takeout",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 223
+  },
+  {
+    "description": "utilities at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 1324
+  },
+  {
+    "description": "paid 445 for restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 445
+  },
+  {
+    "description": "sushi dinner from Carrefour",
+    "merchant": "Carrefour",
+    "category": "Food & Dining",
+    "amount": 260
+  },
+  {
+    "description": "monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 792
+  },
+  {
+    "description": "bus fare",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 432
+  },
+  {
+    "description": "healthcare",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 3089
+  },
+  {
+    "description": "movie tickets",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 258
+  },
+  {
+    "description": "shawarma at Andrea's",
+    "merchant": "Andrea's",
+    "category": "Food & Dining",
+    "amount": 530
+  },
+  {
+    "description": "fuel from Mobil",
+    "merchant": "Mobil",
+    "category": "Transportation",
+    "amount": 107
+  },
+  {
+    "description": "sneakers",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6758
+  },
+  {
+    "description": "diesel at Car Wash",
+    "merchant": "Car Wash",
+    "category": "Transportation",
+    "amount": 385
+  },
+  {
+    "description": "koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 309
+  },
+  {
+    "description": "foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 170
+  },
+  {
+    "description": "paid 16829 for coursera",
+    "merchant": "",
+    "category": "Education",
+    "amount": 16829
+  },
+  {
+    "description": "paid 487 for gym membership",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 487
+  },
+  {
+    "description": "snack from Gad",
+    "merchant": "Gad",
+    "category": "Food & Dining",
+    "amount": 461
+  },
+  {
+    "description": "snack at Mohamed Ahmed",
+    "merchant": "Mohamed Ahmed",
+    "category": "Food & Dining",
+    "amount": 648
+  },
+  {
+    "description": "taxi from Car Wash",
+    "merchant": "Car Wash",
+    "category": "Transportation",
+    "amount": 40
+  },
+  {
+    "description": "burger meal from Hadramout",
+    "merchant": "Hadramout",
+    "category": "Food & Dining",
+    "amount": 320
+  },
+  {
+    "description": "commute from InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 241
+  },
+  {
+    "description": "family dinner from Cook Door",
+    "merchant": "Cook Door",
+    "category": "Food & Dining",
+    "amount": 20
+  },
+  {
+    "description": "paid 782 for monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 782
+  },
+  {
+    "description": "landline at Water Company",
+    "merchant": "Water Company",
+    "category": "Bills & Utilities",
+    "amount": 592
+  },
+  {
+    "description": "paid 3791 for medical checkup",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 3791
+  },
+  {
+    "description": "weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 408
+  },
+  {
+    "description": "netflix subscription at World Gym",
+    "merchant": "World Gym",
+    "category": "Entertainment",
+    "amount": 434
+  },
+  {
+    "description": "benzene from Misr Petroleum",
+    "merchant": "Misr Petroleum",
+    "category": "Transportation",
+    "amount": 289
+  },
+  {
+    "description": "sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 315
+  },
+  {
+    "description": "fuel",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 489
+  },
+  {
+    "description": "family dinner from The Coffee Bean",
+    "merchant": "The Coffee Bean",
+    "category": "Food & Dining",
+    "amount": 276
+  },
+  {
+    "description": "shopping spree",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 7209
+  },
+  {
+    "description": "petrol at Tneen Bike",
+    "merchant": "Tneen Bike",
+    "category": "Transportation",
+    "amount": 383
+  },
+  {
+    "description": "monthly bills at Nile Sat",
+    "merchant": "Nile Sat",
+    "category": "Bills & Utilities",
+    "amount": 406
+  },
+  {
+    "description": "weekly shopping from Pottery Cafe",
+    "merchant": "Pottery Cafe",
+    "category": "Food & Dining",
+    "amount": 612
+  },
+  {
+    "description": "paid 334 for monthly bills",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 334
+  },
+  {
+    "description": "car wash from DiDi",
+    "merchant": "DiDi",
+    "category": "Transportation",
+    "amount": 345
+  },
+  {
+    "description": "food delivery from Carrefour",
+    "merchant": "Carrefour",
+    "category": "Food & Dining",
+    "amount": 425
+  },
+  {
+    "description": "utilities at Etisalat",
+    "merchant": "Etisalat",
+    "category": "Bills & Utilities",
+    "amount": 556
+  },
+  {
+    "description": "gasoline at DiDi",
+    "merchant": "DiDi",
+    "category": "Transportation",
+    "amount": 78
+  },
+  {
+    "description": "dentist at Alpha Lab",
+    "merchant": "Alpha Lab",
+    "category": "Healthcare",
+    "amount": 3807
+  },
+  {
+    "description": "paid 546 for electricity bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 546
+  },
+  {
+    "description": "food delivery from Metro",
+    "merchant": "Metro",
+    "category": "Food & Dining",
+    "amount": 390
+  },
+  {
+    "description": "electricity payment",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 932
+  },
+  {
+    "description": "electricity payment from beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 1244
+  },
+  {
+    "description": "groceries at Mohamed Ahmed",
+    "merchant": "Mohamed Ahmed",
+    "category": "Food & Dining",
+    "amount": 300
+  },
+  {
+    "description": "paid 209 for music subscription",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 209
+  },
+  {
+    "description": "video games from Epic Games",
+    "merchant": "Epic Games",
+    "category": "Entertainment",
+    "amount": 343
+  },
+  {
+    "description": "family dinner from Uber Eats",
+    "merchant": "Uber Eats",
+    "category": "Food & Dining",
+    "amount": 667
+  },
+  {
+    "description": "paid 627 for foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 627
+  },
+  {
+    "description": "vet visit",
+    "merchant": "",
+    "category": "Other",
+    "amount": 809
+  },
+  {
+    "description": "electronics",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8704
+  },
+  {
+    "description": "paid 382 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 382
+  },
+  {
+    "description": "ride to work at InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 64
+  },
+  {
+    "description": "breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 389
+  },
+  {
+    "description": "foul and falafel from Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 782
+  },
+  {
+    "description": "burger meal from Burger King",
+    "merchant": "Burger King",
+    "category": "Food & Dining",
+    "amount": 77
+  },
+  {
+    "description": "paid 56 for dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 56
+  },
+  {
+    "description": "dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 366
+  },
+  {
+    "description": "coffee from Estoril",
+    "merchant": "Estoril",
+    "category": "Food & Dining",
+    "amount": 468
+  },
+  {
+    "description": "paid 799 for electricity bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 799
+  },
+  {
+    "description": "massage at Spa",
+    "merchant": "Spa",
+    "category": "Personal Care",
+    "amount": 561
+  },
+  {
+    "description": "paid 393 for ride to work",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 393
+  },
+  {
+    "description": "phone bill from Water Company",
+    "merchant": "Water Company",
+    "category": "Bills & Utilities",
+    "amount": 479
+  },
+  {
+    "description": "weekly shopping from Starbucks",
+    "merchant": "Starbucks",
+    "category": "Food & Dining",
+    "amount": 362
+  },
+  {
+    "description": "monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 164
+  },
+  {
+    "description": "hotel booking",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 12335
+  },
+  {
+    "description": "careem trip from Total",
+    "merchant": "Total",
+    "category": "Transportation",
+    "amount": 81
+  },
+  {
+    "description": "dinner from Metro",
+    "merchant": "Metro",
+    "category": "Food & Dining",
+    "amount": 693
+  },
+  {
+    "description": "hair treatment from Salon",
+    "merchant": "Salon",
+    "category": "Personal Care",
+    "amount": 810
+  },
+  {
+    "description": "foul and falafel from El Abd",
+    "merchant": "El Abd",
+    "category": "Food & Dining",
+    "amount": 65
+  },
+  {
+    "description": "ride home at Wataniya",
+    "merchant": "Wataniya",
+    "category": "Transportation",
+    "amount": 435
+  },
+  {
+    "description": "paid 172 for benzene",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 172
+  },
+  {
+    "description": "paid 6066 for sneakers",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6066
+  },
+  {
+    "description": "game purchase",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 246
+  },
+  {
+    "description": "manicure at Salon",
+    "merchant": "Salon",
+    "category": "Personal Care",
+    "amount": 1850
+  },
+  {
+    "description": "koshary from Zooba",
+    "merchant": "Zooba",
+    "category": "Food & Dining",
+    "amount": 730
+  },
+  {
+    "description": "paid 775 for concert",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 775
+  },
+  {
+    "description": "restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 151
+  },
+  {
+    "description": "cable tv at Orange Egypt",
+    "merchant": "Orange Egypt",
+    "category": "Bills & Utilities",
+    "amount": 850
+  },
+  {
+    "description": "snack from Beano's",
+    "merchant": "Beano's",
+    "category": "Food & Dining",
+    "amount": 250
+  },
+  {
+    "description": "manicure",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 1961
+  },
+  {
+    "description": "coffee and cake",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 543
+  },
+  {
+    "description": "shirt from Apple Store",
+    "merchant": "Apple Store",
+    "category": "Shopping",
+    "amount": 6940
+  },
+  {
+    "description": "gas bill at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 1031
+  },
+  {
+    "description": "paid 408 for car wash",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 408
+  },
+  {
+    "description": "vacation",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 17898
+  },
+  {
+    "description": "paid 540 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 540
+  },
+  {
+    "description": "paid 479 for benzine",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 479
+  },
+  {
+    "description": "food delivery from TGI Fridays",
+    "merchant": "TGI Fridays",
+    "category": "Food & Dining",
+    "amount": 645
+  },
+  {
+    "description": "family dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 42
+  },
+  {
+    "description": "uber ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 349
+  },
+  {
+    "description": "uber to mall from Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 113
+  },
+  {
+    "description": "uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 374
+  },
+  {
+    "description": "takeout at Cook Door",
+    "merchant": "Cook Door",
+    "category": "Food & Dining",
+    "amount": 694
+  },
+  {
+    "description": "bought shoes at Mobiles Shop",
+    "merchant": "Mobiles Shop",
+    "category": "Shopping",
+    "amount": 6156
+  },
+  {
+    "description": "shopping at IKEA",
+    "merchant": "IKEA",
+    "category": "Shopping",
+    "amount": 6783
+  },
+  {
+    "description": "spa at Boots",
+    "merchant": "Boots",
+    "category": "Personal Care",
+    "amount": 1181
+  },
+  {
+    "description": "gym membership from Renaissance",
+    "merchant": "Renaissance",
+    "category": "Entertainment",
+    "amount": 638
+  },
+  {
+    "description": "private lessons from BUE",
+    "merchant": "BUE",
+    "category": "Education",
+    "amount": 471
+  },
+  {
+    "description": "family dinner at Oscar Market",
+    "merchant": "Oscar Market",
+    "category": "Food & Dining",
+    "amount": 360
+  },
+  {
+    "description": "paid 6982 for education",
+    "merchant": "",
+    "category": "Education",
+    "amount": 6982
+  },
+  {
+    "description": "paid 556 for restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 556
+  },
+  {
+    "description": "lunch from Talabat",
+    "merchant": "Talabat",
+    "category": "Food & Dining",
+    "amount": 611
+  },
+  {
+    "description": "monthly bills at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 1381
+  },
+  {
+    "description": "paid 500 for groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 500
+  },
+  {
+    "description": "breakfast",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 401
+  },
+  {
+    "description": "paid 172 for groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 172
+  },
+  {
+    "description": "food delivery at Elmenus",
+    "merchant": "Elmenus",
+    "category": "Food & Dining",
+    "amount": 608
+  },
+  {
+    "description": "paid 139 for bus fare",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 139
+  },
+  {
+    "description": "paid 52 for game purchase",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 52
+  },
+  {
+    "description": "paid 7076 for kitchenware",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 7076
+  },
+  {
+    "description": "gasoline at DiDi",
+    "merchant": "DiDi",
+    "category": "Transportation",
+    "amount": 476
+  },
+  {
+    "description": "weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 670
+  },
+  {
+    "description": "car wash from Shell",
+    "merchant": "Shell",
+    "category": "Transportation",
+    "amount": 74
+  },
+  {
+    "description": "benzine",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 476
+  },
+  {
+    "description": "grooming from Beauty Center",
+    "merchant": "Beauty Center",
+    "category": "Personal Care",
+    "amount": 371
+  },
+  {
+    "description": "paid 3352 for jacket",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3352
+  },
+  {
+    "description": "paid 651 for personal trainer",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 651
+  },
+  {
+    "description": "paid 8558 for shirt",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8558
+  },
+  {
+    "description": "hotel stay from Agoda",
+    "merchant": "Agoda",
+    "category": "Travel",
+    "amount": 14318
+  },
+  {
+    "description": "home decor from Pan Emirates",
+    "merchant": "Pan Emirates",
+    "category": "Shopping",
+    "amount": 7342
+  },
+  {
+    "description": "water bill from Gas Company",
+    "merchant": "Gas Company",
+    "category": "Bills & Utilities",
+    "amount": 734
+  },
+  {
+    "description": "gasoline",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 287
+  },
+  {
+    "description": "benzine from Car Wash",
+    "merchant": "Car Wash",
+    "category": "Transportation",
+    "amount": 116
+  },
+  {
+    "description": "internet bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1406
+  },
+  {
+    "description": "car wash from Uber Moto",
+    "merchant": "Uber Moto",
+    "category": "Transportation",
+    "amount": 499
+  },
+  {
+    "description": "paid 328 for ride home",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 328
+  },
+  {
+    "description": "books at Coursera",
+    "merchant": "Coursera",
+    "category": "Education",
+    "amount": 19689
+  },
+  {
+    "description": "plane ticket",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 18039
+  },
+  {
+    "description": "sushi dinner at El Abd",
+    "merchant": "El Abd",
+    "category": "Food & Dining",
+    "amount": 177
+  },
+  {
+    "description": "paid 318 for metro ticket",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 318
+  },
+  {
+    "description": "pants",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 2920
+  },
+  {
+    "description": "dinner from KFC",
+    "merchant": "KFC",
+    "category": "Food & Dining",
+    "amount": 287
+  },
+  {
+    "description": "laptop from The One",
+    "merchant": "The One",
+    "category": "Shopping",
+    "amount": 5801
+  },
+  {
+    "description": "paid 696 for entertainment",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 696
+  },
+  {
+    "description": "paid 799 for coffee",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 799
+  },
+  {
+    "description": "lunch from Estoril",
+    "merchant": "Estoril",
+    "category": "Food & Dining",
+    "amount": 199
+  },
+  {
+    "description": "electricity bill at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 716
+  },
+  {
+    "description": "paid 780 for entertainment",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 780
+  },
+  {
+    "description": "fast food at Taboon",
+    "merchant": "Taboon",
+    "category": "Food & Dining",
+    "amount": 630
+  },
+  {
+    "description": "airport ride from Mobil",
+    "merchant": "Mobil",
+    "category": "Transportation",
+    "amount": 174
+  },
+  {
+    "description": "pharmacy",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1397
+  },
+  {
+    "description": "groceries from Hardee's",
+    "merchant": "Hardee's",
+    "category": "Food & Dining",
+    "amount": 209
+  },
+  {
+    "description": "paid 439 for monthly bills",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 439
+  },
+  {
+    "description": "sushi dinner at El Abd",
+    "merchant": "El Abd",
+    "category": "Food & Dining",
+    "amount": 360
+  },
+  {
+    "description": "paid 337 for uber ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 337
+  },
+  {
+    "description": "parking fee at InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 423
+  },
+  {
+    "description": "paid 6831 for furniture",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 6831
+  },
+  {
+    "description": "paid 62 for restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 62
+  },
+  {
+    "description": "family dinner at Kazaz",
+    "merchant": "Kazaz",
+    "category": "Food & Dining",
+    "amount": 145
+  },
+  {
+    "description": "hotel booking",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 20600
+  },
+  {
+    "description": "wifi at WE",
+    "merchant": "WE",
+    "category": "Bills & Utilities",
+    "amount": 704
+  },
+  {
+    "description": "internet payment at WE",
+    "merchant": "WE",
+    "category": "Bills & Utilities",
+    "amount": 505
+  },
+  {
+    "description": "paid 8405 for kitchenware",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8405
+  },
+  {
+    "description": "paid 186 for weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 186
+  },
+  {
+    "description": "family dinner from El Abd",
+    "merchant": "El Abd",
+    "category": "Food & Dining",
+    "amount": 200
+  },
+  {
+    "description": "family dinner from Papa John's",
+    "merchant": "Papa John's",
+    "category": "Food & Dining",
+    "amount": 305
+  },
+  {
+    "description": "paid 225 for sneakers",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 225
+  },
+  {
+    "description": "paid 863 for pedicure",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 863
+  },
+  {
+    "description": "paid 918 for medical treatment",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 918
+  },
+  {
+    "description": "paid 308 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 308
+  },
+  {
+    "description": "benzine from Uber",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": 180
+  },
+  {
+    "description": "video games at Xbox Store",
+    "merchant": "Xbox Store",
+    "category": "Entertainment",
+    "amount": 161
+  },
+  {
+    "description": "paid 434 for gasoline",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 434
+  },
+  {
+    "description": "snack at Mori Sushi",
+    "merchant": "Mori Sushi",
+    "category": "Food & Dining",
+    "amount": 525
+  },
+  {
+    "description": "petrol from InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 160
+  },
+  {
+    "description": "family dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 489
+  },
+  {
+    "description": "ride home",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 90
+  },
+  {
+    "description": "paid 978 for spotify premium",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 978
+  },
+  {
+    "description": "pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 357
+  },
+  {
+    "description": "clinic at El Ezaby Pharmacy",
+    "merchant": "El Ezaby Pharmacy",
+    "category": "Healthcare",
+    "amount": 3349
+  },
+  {
+    "description": "paid 1242 for electricity bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1242
+  },
+  {
+    "description": "airport ride at Toll Gate",
+    "merchant": "Toll Gate",
+    "category": "Transportation",
+    "amount": 128
+  },
+  {
+    "description": "fitness",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 557
+  },
+  {
+    "description": "phone bill from Electricity Company",
+    "merchant": "Electricity Company",
+    "category": "Bills & Utilities",
+    "amount": 483
+  },
+  {
+    "description": "food delivery from Abou Tarek",
+    "merchant": "Abou Tarek",
+    "category": "Food & Dining",
+    "amount": 717
+  },
+  {
+    "description": "koshary from Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 563
+  },
+  {
+    "description": "sushi dinner at Metro",
+    "merchant": "Metro",
+    "category": "Food & Dining",
+    "amount": 246
+  },
+  {
+    "description": "fast food",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 47
+  },
+  {
+    "description": "monthly groceries at Carrefour",
+    "merchant": "Carrefour",
+    "category": "Food & Dining",
+    "amount": 763
+  },
+  {
+    "description": "lab tests from Private Clinic",
+    "merchant": "Private Clinic",
+    "category": "Healthcare",
+    "amount": 2621
+  },
+  {
+    "description": "bought clothes at Cotton On",
+    "merchant": "Cotton On",
+    "category": "Shopping",
+    "amount": 7717
+  },
+  {
+    "description": "monthly bills",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1451
+  },
+  {
+    "description": "brunch at Cafe Greco",
+    "merchant": "Cafe Greco",
+    "category": "Food & Dining",
+    "amount": 719
+  },
+  {
+    "description": "benzene from Toll Gate",
+    "merchant": "Toll Gate",
+    "category": "Transportation",
+    "amount": 394
+  },
+  {
+    "description": "electricity payment from beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 990
+  },
+  {
+    "description": "certification at Skillshare",
+    "merchant": "Skillshare",
+    "category": "Education",
+    "amount": 12783
+  },
+  {
+    "description": "coffee and cake at KFC",
+    "merchant": "KFC",
+    "category": "Food & Dining",
+    "amount": 103
+  },
+  {
+    "description": "shirt from Centrepoint",
+    "merchant": "Centrepoint",
+    "category": "Shopping",
+    "amount": 9385
+  },
+  {
+    "description": "breakfast at Taboon",
+    "merchant": "Taboon",
+    "category": "Food & Dining",
+    "amount": 157
+  },
+  {
+    "description": "paid 382 for movie tickets",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 382
+  },
+  {
+    "description": "shopping spree",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 5644
+  },
+  {
+    "description": "transportation at Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 19
+  },
+  {
+    "description": "online course",
+    "merchant": "",
+    "category": "Education",
+    "amount": 216
+  },
+  {
+    "description": "dental checkup from 19011 Pharmacy",
+    "merchant": "19011 Pharmacy",
+    "category": "Healthcare",
+    "amount": 2411
+  },
+  {
+    "description": "new phone at AliExpress",
+    "merchant": "AliExpress",
+    "category": "Shopping",
+    "amount": 1127
+  },
+  {
+    "description": "hair treatment at The Body Shop",
+    "merchant": "The Body Shop",
+    "category": "Personal Care",
+    "amount": 1034
+  },
+  {
+    "description": "paid 557 for koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 557
+  },
+  {
+    "description": "private lessons at Amazon Books",
+    "merchant": "Amazon Books",
+    "category": "Education",
+    "amount": 6749
+  },
+  {
+    "description": "foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 480
+  },
+  {
+    "description": "dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 723
+  },
+  {
+    "description": "paid 936 for entertainment",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 936
+  },
+  {
+    "description": "paid 321 for music subscription",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 321
+  },
+  {
+    "description": "food delivery from Felfela",
+    "merchant": "Felfela",
+    "category": "Food & Dining",
+    "amount": 457
+  },
+  {
+    "description": "paid 17862 for weekend getaway",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 17862
+  },
+  {
+    "description": "landline at WE",
+    "merchant": "WE",
+    "category": "Bills & Utilities",
+    "amount": 1351
+  },
+  {
+    "description": "bedding from LC Waikiki",
+    "merchant": "LC Waikiki",
+    "category": "Shopping",
+    "amount": 4739
+  },
+  {
+    "description": "paid 4452 for laptop",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 4452
+  },
+  {
+    "description": "jacket at Cotton On",
+    "merchant": "Cotton On",
+    "category": "Shopping",
+    "amount": 470
+  },
+  {
+    "description": "pizza order at Otlob",
+    "merchant": "Otlob",
+    "category": "Food & Dining",
+    "amount": 45
+  },
+  {
+    "description": "paid 610 for makeup",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 610
+  },
+  {
+    "description": "paid 444 for burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 444
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 169
+  },
+  {
+    "description": "monthly groceries from Fathalla Market",
+    "merchant": "Fathalla Market",
+    "category": "Food & Dining",
+    "amount": 523
+  },
+  {
+    "description": "groceries from Oscar Market",
+    "merchant": "Oscar Market",
+    "category": "Food & Dining",
+    "amount": 679
+  },
+  {
+    "description": "commute from Total",
+    "merchant": "Total",
+    "category": "Transportation",
+    "amount": 216
+  },
+  {
+    "description": "groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 700
+  },
+  {
+    "description": "restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 625
+  },
+  {
+    "description": "paid 3455 for jeans",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3455
+  },
+  {
+    "description": "petrol at Auto Service",
+    "merchant": "Auto Service",
+    "category": "Transportation",
+    "amount": 35
+  },
+  {
+    "description": "paid 113 for commute",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 113
+  },
+  {
+    "description": "monthly groceries from Cilantro",
+    "merchant": "Cilantro",
+    "category": "Food & Dining",
+    "amount": 742
+  },
+  {
+    "description": "pedicure at Sephora",
+    "merchant": "Sephora",
+    "category": "Personal Care",
+    "amount": 1345
+  },
+  {
+    "description": "restaurant meal from Domino's Pizza",
+    "merchant": "Domino's Pizza",
+    "category": "Food & Dining",
+    "amount": 358
+  },
+  {
+    "description": "consultation",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1941
+  },
+  {
+    "description": "paid 1161 for gas bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1161
+  },
+  {
+    "description": "ride to work",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 208
+  },
+  {
+    "description": "paid 227 for gas bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 227
+  },
+  {
+    "description": "headphones",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3611
+  },
+  {
+    "description": "paid 9842 for headphones",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 9842
+  },
+  {
+    "description": "paid 1158 for makeup",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 1158
+  },
+  {
+    "description": "paid 1059 for phone bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1059
+  },
+  {
+    "description": "fast food from Cook Door",
+    "merchant": "Cook Door",
+    "category": "Food & Dining",
+    "amount": 418
+  },
+  {
+    "description": "sushi dinner at Oscar Market",
+    "merchant": "Oscar Market",
+    "category": "Food & Dining",
+    "amount": 422
+  },
+  {
+    "description": "furniture from Beymen",
+    "merchant": "Beymen",
+    "category": "Shopping",
+    "amount": 5424
+  },
+  {
+    "description": "paid 68 for careem to office",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 68
+  },
+  {
+    "description": "prescription from Misr Pharmacy",
+    "merchant": "Misr Pharmacy",
+    "category": "Healthcare",
+    "amount": 3046
+  },
+  {
+    "description": "hotel stay",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 9276
+  },
+  {
+    "description": "paid 353 for koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 353
+  },
+  {
+    "description": "personal trainer at Cima Club",
+    "merchant": "Cima Club",
+    "category": "Entertainment",
+    "amount": 159
+  },
+  {
+    "description": "paid 409 for monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 409
+  },
+  {
+    "description": "foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 122
+  },
+  {
+    "description": "shopping spree",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 1691
+  },
+  {
+    "description": "plane ticket",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 22750
+  },
+  {
+    "description": "paid 497 for restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 497
+  },
+  {
+    "description": "shawarma from Oscar Market",
+    "merchant": "Oscar Market",
+    "category": "Food & Dining",
+    "amount": 300
+  },
+  {
+    "description": "ride home",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 165
+  },
+  {
+    "description": "coffee and cake",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 348
+  },
+  {
+    "description": "udemy course from BUE",
+    "merchant": "BUE",
+    "category": "Education",
+    "amount": 3811
+  },
+  {
+    "description": "breakfast from Panda",
+    "merchant": "Panda",
+    "category": "Food & Dining",
+    "amount": 487
+  },
+  {
+    "description": "landline",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 901
+  },
+  {
+    "description": "bedding from The One",
+    "merchant": "The One",
+    "category": "Shopping",
+    "amount": 879
+  },
+  {
+    "description": "dessert at Sequoia",
+    "merchant": "Sequoia",
+    "category": "Food & Dining",
+    "amount": 37
+  },
+  {
+    "description": "uber to mall from Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 155
+  },
+  {
+    "description": "gym membership",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 332
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 434
+  },
+  {
+    "description": "uber to mall at Tneen Bike",
+    "merchant": "Tneen Bike",
+    "category": "Transportation",
+    "amount": 188
+  },
+  {
+    "description": "paid 562 for electricity bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 562
+  },
+  {
+    "description": "paid 393 for koshary",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 393
+  },
+  {
+    "description": "transportation from Auto Service",
+    "merchant": "Auto Service",
+    "category": "Transportation",
+    "amount": 32
+  },
+  {
+    "description": "paid 518 for yoga class",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 518
+  },
+  {
+    "description": "paid 130 for pedicure",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 130
+  },
+  {
+    "description": "jacket from IKEA",
+    "merchant": "IKEA",
+    "category": "Shopping",
+    "amount": 1338
+  },
+  {
+    "description": "restaurant meal from Panda",
+    "merchant": "Panda",
+    "category": "Food & Dining",
+    "amount": 491
+  },
+  {
+    "description": "metro ticket from Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 456
+  },
+  {
+    "description": "mobile recharge at Internet Provider",
+    "merchant": "Internet Provider",
+    "category": "Bills & Utilities",
+    "amount": 1098
+  },
+  {
+    "description": "uber ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 383
+  },
+  {
+    "description": "tuition at Coursera",
+    "merchant": "Coursera",
+    "category": "Education",
+    "amount": 13991
+  },
+  {
+    "description": "foul and falafel at Ovio",
+    "merchant": "Ovio",
+    "category": "Food & Dining",
+    "amount": 282
+  },
+  {
+    "description": "internet payment at Etisalat",
+    "merchant": "Etisalat",
+    "category": "Bills & Utilities",
+    "amount": 1403
+  },
+  {
+    "description": "dessert at Uber Eats",
+    "merchant": "Uber Eats",
+    "category": "Food & Dining",
+    "amount": 459
+  },
+  {
+    "description": "paid 282 for shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 282
+  },
+  {
+    "description": "brunch from Felfela",
+    "merchant": "Felfela",
+    "category": "Food & Dining",
+    "amount": 788
+  },
+  {
+    "description": "registration fee from Bank Fee",
+    "merchant": "Bank Fee",
+    "category": "Other",
+    "amount": 1245
+  },
+  {
+    "description": "mobile bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1304
+  },
+  {
+    "description": "paid 6239 for language learning",
+    "merchant": "",
+    "category": "Education",
+    "amount": 6239
+  },
+  {
+    "description": "phone",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 8359
+  },
+  {
+    "description": "parking fee at Tneen Bike",
+    "merchant": "Tneen Bike",
+    "category": "Transportation",
+    "amount": 138
+  },
+  {
+    "description": "paid 275 for brunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 275
+  },
+  {
+    "description": "paid 1239 for cable tv",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1239
+  },
+  {
+    "description": "sports",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 105
+  },
+  {
+    "description": "utilities at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 1109
+  },
+  {
+    "description": "paid 848 for personal care",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 848
+  },
+  {
+    "description": "weekend getaway at Airbnb",
+    "merchant": "Airbnb",
+    "category": "Travel",
+    "amount": 6423
+  },
+  {
+    "description": "diesel",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 470
+  },
+  {
+    "description": "landline at Nile Sat",
+    "merchant": "Nile Sat",
+    "category": "Bills & Utilities",
+    "amount": 748
+  },
+  {
+    "description": "takeout from McDonald's",
+    "merchant": "McDonald's",
+    "category": "Food & Dining",
+    "amount": 58
+  },
+  {
+    "description": "yoga class",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 197
+  },
+  {
+    "description": "commute at Uber",
+    "merchant": "Uber",
+    "category": "Transportation",
+    "amount": 338
+  },
+  {
+    "description": "game purchase",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 831
+  },
+  {
+    "description": "satellite from beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 917
+  },
+  {
+    "description": "paid 112 for family dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 112
+  },
+  {
+    "description": "ride home at Tneen Bike",
+    "merchant": "Tneen Bike",
+    "category": "Transportation",
+    "amount": 22
+  },
+  {
+    "description": "paid 660 for family dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 660
+  },
+  {
+    "description": "transportation",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 320
+  },
+  {
+    "description": "hair salon",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 808
+  },
+  {
+    "description": "bought clothes from Orange Store",
+    "merchant": "Orange Store",
+    "category": "Shopping",
+    "amount": 1047
+  },
+  {
+    "description": "paid 236 for personal trainer",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 236
+  },
+  {
+    "description": "dessert",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 367
+  },
+  {
+    "description": "brunch from Al Omda",
+    "merchant": "Al Omda",
+    "category": "Food & Dining",
+    "amount": 306
+  },
+  {
+    "description": "paid 609 for electronics",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 609
+  },
+  {
+    "description": "diesel from Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 102
+  },
+  {
+    "description": "paid 795 for restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 795
+  },
+  {
+    "description": "paid 471 for bus fare",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 471
+  },
+  {
+    "description": "coffee and cake from Pottery Cafe",
+    "merchant": "Pottery Cafe",
+    "category": "Food & Dining",
+    "amount": 727
+  },
+  {
+    "description": "medicine from Dar Al Fouad",
+    "merchant": "Dar Al Fouad",
+    "category": "Healthcare",
+    "amount": 3088
+  },
+  {
+    "description": "workshop from Jarir Bookstore",
+    "merchant": "Jarir Bookstore",
+    "category": "Education",
+    "amount": 11059
+  },
+  {
+    "description": "paid 131 for netflix subscription",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 131
+  },
+  {
+    "description": "paid 250 for coffee and cake",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 250
+  },
+  {
+    "description": "dinner from The Coffee Bean",
+    "merchant": "The Coffee Bean",
+    "category": "Food & Dining",
+    "amount": 147
+  },
+  {
+    "description": "concert from Cima Club",
+    "merchant": "Cima Club",
+    "category": "Entertainment",
+    "amount": 793
+  },
+  {
+    "description": "yoga class",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 463
+  },
+  {
+    "description": "paid 588 for sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 588
+  },
+  {
+    "description": "spotify premium",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 993
+  },
+  {
+    "description": "clinic at Seif Pharmacy",
+    "merchant": "Seif Pharmacy",
+    "category": "Healthcare",
+    "amount": 361
+  },
+  {
+    "description": "semester fees at Shorouk Bookstore",
+    "merchant": "Shorouk Bookstore",
+    "category": "Education",
+    "amount": 14316
+  },
+  {
+    "description": "paid 473 for careem trip",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 473
+  },
+  {
+    "description": "new phone at Kenoz",
+    "merchant": "Kenoz",
+    "category": "Shopping",
+    "amount": 7033
+  },
+  {
+    "description": "weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 772
+  },
+  {
+    "description": "fitness",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 223
+  },
+  {
+    "description": "family dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 778
+  },
+  {
+    "description": "benzine",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 40
+  },
+  {
+    "description": "pedicure at MAC",
+    "merchant": "MAC",
+    "category": "Personal Care",
+    "amount": 483
+  },
+  {
+    "description": "groceries at Otlob",
+    "merchant": "Otlob",
+    "category": "Food & Dining",
+    "amount": 678
+  },
+  {
+    "description": "brunch from Starbucks",
+    "merchant": "Starbucks",
+    "category": "Food & Dining",
+    "amount": 485
+  },
+  {
+    "description": "manicure from The Body Shop",
+    "merchant": "The Body Shop",
+    "category": "Personal Care",
+    "amount": 485
+  },
+  {
+    "description": "restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 280
+  },
+  {
+    "description": "benzene from Auto Service",
+    "merchant": "Auto Service",
+    "category": "Transportation",
+    "amount": 72
+  },
+  {
+    "description": "satellite at WE",
+    "merchant": "WE",
+    "category": "Bills & Utilities",
+    "amount": 109
+  },
+  {
+    "description": "monthly groceries at Hardee's",
+    "merchant": "Hardee's",
+    "category": "Food & Dining",
+    "amount": 769
+  },
+  {
+    "description": "uber ride at Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 365
+  },
+  {
+    "description": "paid 451 for ride sharing",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 451
+  },
+  {
+    "description": "uber to mall from Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 234
+  },
+  {
+    "description": "coffee from Uber Eats",
+    "merchant": "Uber Eats",
+    "category": "Food & Dining",
+    "amount": 304
+  },
+  {
+    "description": "foul and falafel from Andrea's",
+    "merchant": "Andrea's",
+    "category": "Food & Dining",
+    "amount": 317
+  },
+  {
+    "description": "music subscription from Renaissance",
+    "merchant": "Renaissance",
+    "category": "Entertainment",
+    "amount": 333
+  },
+  {
+    "description": "new phone",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 4664
+  },
+  {
+    "description": "food delivery at Burger King",
+    "merchant": "Burger King",
+    "category": "Food & Dining",
+    "amount": 755
+  },
+  {
+    "description": "restaurant meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 611
+  },
+  {
+    "description": "breakfast at Metro",
+    "merchant": "Metro",
+    "category": "Food & Dining",
+    "amount": 107
+  },
+  {
+    "description": "weekly shopping at KFC",
+    "merchant": "KFC",
+    "category": "Food & Dining",
+    "amount": 108
+  },
+  {
+    "description": "airport ride from Parking",
+    "merchant": "Parking",
+    "category": "Transportation",
+    "amount": 485
+  },
+  {
+    "description": "cosmetics",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 617
+  },
+  {
+    "description": "brunch from Abou Tarek",
+    "merchant": "Abou Tarek",
+    "category": "Food & Dining",
+    "amount": 179
+  },
+  {
+    "description": "paid 226 for careem trip",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 226
+  },
+  {
+    "description": "paid 58 for brunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 58
+  },
+  {
+    "description": "careem to office from ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 217
+  },
+  {
+    "description": "foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 459
+  },
+  {
+    "description": "parking fee at Mobil",
+    "merchant": "Mobil",
+    "category": "Transportation",
+    "amount": 231
+  },
+  {
+    "description": "utilities at Electricity Company",
+    "merchant": "Electricity Company",
+    "category": "Bills & Utilities",
+    "amount": 1463
+  },
+  {
+    "description": "breakfast from Sequoia",
+    "merchant": "Sequoia",
+    "category": "Food & Dining",
+    "amount": 41
+  },
+  {
+    "description": "pedicure from MAC",
+    "merchant": "MAC",
+    "category": "Personal Care",
+    "amount": 492
+  },
+  {
+    "description": "groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 159
+  },
+  {
+    "description": "family dinner from Espresso Lab",
+    "merchant": "Espresso Lab",
+    "category": "Food & Dining",
+    "amount": 255
+  },
+  {
+    "description": "movie tickets",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 649
+  },
+  {
+    "description": "airport ride from Shell",
+    "merchant": "Shell",
+    "category": "Transportation",
+    "amount": 483
+  },
+  {
+    "description": "commute at Wataniya",
+    "merchant": "Wataniya",
+    "category": "Transportation",
+    "amount": 403
+  },
+  {
+    "description": "paid 248 for sports",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 248
+  },
+  {
+    "description": "video games",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 359
+  },
+  {
+    "description": "paid 199 for bus fare",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 199
+  },
+  {
+    "description": "monthly bills from Gas Company",
+    "merchant": "Gas Company",
+    "category": "Bills & Utilities",
+    "amount": 630
+  },
+  {
+    "description": "paid 232 for benzene",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 232
+  },
+  {
+    "description": "paid 1132 for shopping",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 1132
+  },
+  {
+    "description": "netflix subscription from Watch it",
+    "merchant": "Watch it",
+    "category": "Entertainment",
+    "amount": 74
+  },
+  {
+    "description": "paid 1541 for pet food",
+    "merchant": "",
+    "category": "Other",
+    "amount": 1541
+  },
+  {
+    "description": "commute",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 56
+  },
+  {
+    "description": "resort at Emirates",
+    "merchant": "Emirates",
+    "category": "Travel",
+    "amount": 24229
+  },
+  {
+    "description": "paid 920 for satellite",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 920
+  },
+  {
+    "description": "paid 71 for monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 71
+  },
+  {
+    "description": "fitness from Amazon Prime",
+    "merchant": "Amazon Prime",
+    "category": "Entertainment",
+    "amount": 941
+  },
+  {
+    "description": "tutoring from Udemy",
+    "merchant": "Udemy",
+    "category": "Education",
+    "amount": 10713
+  },
+  {
+    "description": "personal care from Pharmacy",
+    "merchant": "Pharmacy",
+    "category": "Personal Care",
+    "amount": 1824
+  },
+  {
+    "description": "paid 187 for ride sharing",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 187
+  },
+  {
+    "description": "paid 146 for sports",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 146
+  },
+  {
+    "description": "parking fee from Wataniya",
+    "merchant": "Wataniya",
+    "category": "Transportation",
+    "amount": 187
+  },
+  {
+    "description": "internet payment",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 427
+  },
+  {
+    "description": "brunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 302
+  },
+  {
+    "description": "water bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1065
+  },
+  {
+    "description": "study materials",
+    "merchant": "",
+    "category": "Education",
+    "amount": 8243
+  },
+  {
+    "description": "entertainment at Steam",
+    "merchant": "Steam",
+    "category": "Entertainment",
+    "amount": 526
+  },
+  {
+    "description": "benzene at Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 34
+  },
+  {
+    "description": "paid 7539 for gadget",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 7539
+  },
+  {
+    "description": "ride sharing",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 429
+  },
+  {
+    "description": "paid 397 for diesel",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 397
+  },
+  {
+    "description": "kitchenware from Amazon",
+    "merchant": "Amazon",
+    "category": "Shopping",
+    "amount": 6694
+  },
+  {
+    "description": "burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 685
+  },
+  {
+    "description": "weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 61
+  },
+  {
+    "description": "car wash from ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 438
+  },
+  {
+    "description": "water bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1032
+  },
+  {
+    "description": "music subscription from YouTube Premium",
+    "merchant": "YouTube Premium",
+    "category": "Entertainment",
+    "amount": 688
+  },
+  {
+    "description": "paid 1071 for phone bill",
+    "merchant": "",
+    "category": "Bills & Utilities",
+    "amount": 1071
+  },
+  {
+    "description": "paid 498 for weekly shopping",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 498
+  },
+  {
+    "description": "uber to mall",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 42
+  },
+  {
+    "description": "online order",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 3163
+  },
+  {
+    "description": "petrol",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 474
+  },
+  {
+    "description": "paid 315 for transportation",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 315
+  },
+  {
+    "description": "hotel stay at Agoda",
+    "merchant": "Agoda",
+    "category": "Travel",
+    "amount": 20235
+  },
+  {
+    "description": "entertainment",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 911
+  },
+  {
+    "description": "taxi from Total",
+    "merchant": "Total",
+    "category": "Transportation",
+    "amount": 332
+  },
+  {
+    "description": "books at ILI",
+    "merchant": "ILI",
+    "category": "Education",
+    "amount": 10470
+  },
+  {
+    "description": "paid 468 for foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 468
+  },
+  {
+    "description": "dessert from Estoril",
+    "merchant": "Estoril",
+    "category": "Food & Dining",
+    "amount": 474
+  },
+  {
+    "description": "movies from Smart Gym",
+    "merchant": "Smart Gym",
+    "category": "Entertainment",
+    "amount": 210
+  },
+  {
+    "description": "netflix subscription",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 240
+  },
+  {
+    "description": "water bill from Gas Company",
+    "merchant": "Gas Company",
+    "category": "Bills & Utilities",
+    "amount": 337
+  },
+  {
+    "description": "prescription",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1800
+  },
+  {
+    "description": "petrol at Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 131
+  },
+  {
+    "description": "pharmacy",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1004
+  },
+  {
+    "description": "furniture",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 2898
+  },
+  {
+    "description": "paid 424 for taxi",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 424
+  },
+  {
+    "description": "foul and falafel",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 143
+  },
+  {
+    "description": "gasoline at DiDi",
+    "merchant": "DiDi",
+    "category": "Transportation",
+    "amount": 466
+  },
+  {
+    "description": "uber ride from Misr Petroleum",
+    "merchant": "Misr Petroleum",
+    "category": "Transportation",
+    "amount": 285
+  },
+  {
+    "description": "brunch",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 273
+  },
+  {
+    "description": "paid 376 for careem trip",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 376
+  },
+  {
+    "description": "paid 408 for sushi dinner",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 408
+  },
+  {
+    "description": "laundry from Bank Fee",
+    "merchant": "Bank Fee",
+    "category": "Other",
+    "amount": 413
+  },
+  {
+    "description": "paid 1811 for doctor visit",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 1811
+  },
+  {
+    "description": "paid 376 for pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 376
+  },
+  {
+    "description": "cable tv at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 801
+  },
+  {
+    "description": "medicine from 19011 Pharmacy",
+    "merchant": "19011 Pharmacy",
+    "category": "Healthcare",
+    "amount": 3039
+  },
+  {
+    "description": "coffee",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 694
+  },
+  {
+    "description": "gas refill from Cairo Metro",
+    "merchant": "Cairo Metro",
+    "category": "Transportation",
+    "amount": 441
+  },
+  {
+    "description": "landline from Gas Company",
+    "merchant": "Gas Company",
+    "category": "Bills & Utilities",
+    "amount": 1042
+  },
+  {
+    "description": "foul and falafel at Zooba",
+    "merchant": "Zooba",
+    "category": "Food & Dining",
+    "amount": 543
+  },
+  {
+    "description": "utilities from Orange Egypt",
+    "merchant": "Orange Egypt",
+    "category": "Bills & Utilities",
+    "amount": 1240
+  },
+  {
+    "description": "paid 477 for monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 477
+  },
+  {
+    "description": "online order at LC Waikiki",
+    "merchant": "LC Waikiki",
+    "category": "Shopping",
+    "amount": 114
+  },
+  {
+    "description": "family dinner at Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 718
+  },
+  {
+    "description": "sushi dinner from Otlob",
+    "merchant": "Otlob",
+    "category": "Food & Dining",
+    "amount": 585
+  },
+  {
+    "description": "takeout from La Poire",
+    "merchant": "La Poire",
+    "category": "Food & Dining",
+    "amount": 170
+  },
+  {
+    "description": "paid 4515 for pharmacy",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 4515
+  },
+  {
+    "description": "headphones at Pull&Bear",
+    "merchant": "Pull&Bear",
+    "category": "Shopping",
+    "amount": 5892
+  },
+  {
+    "description": "semester fees",
+    "merchant": "",
+    "category": "Education",
+    "amount": 16075
+  },
+  {
+    "description": "paid 42 for car wash",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 42
+  },
+  {
+    "description": "ride sharing from Mobil",
+    "merchant": "Mobil",
+    "category": "Transportation",
+    "amount": 379
+  },
+  {
+    "description": "coffee and cake at Kheir Zaman",
+    "merchant": "Kheir Zaman",
+    "category": "Food & Dining",
+    "amount": 372
+  },
+  {
+    "description": "family dinner at Spinneys",
+    "merchant": "Spinneys",
+    "category": "Food & Dining",
+    "amount": 601
+  },
+  {
+    "description": "dessert",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 628
+  },
+  {
+    "description": "paid 9046 for airbnb",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 9046
+  },
+  {
+    "description": "coffee from Uber Eats",
+    "merchant": "Uber Eats",
+    "category": "Food & Dining",
+    "amount": 737
+  },
+  {
+    "description": "ride to work from Shell",
+    "merchant": "Shell",
+    "category": "Transportation",
+    "amount": 155
+  },
+  {
+    "description": "blood tests at Dar Al Fouad",
+    "merchant": "Dar Al Fouad",
+    "category": "Healthcare",
+    "amount": 914
+  },
+  {
+    "description": "family dinner from El Abd",
+    "merchant": "El Abd",
+    "category": "Food & Dining",
+    "amount": 499
+  },
+  {
+    "description": "electricity bill from Gas Company",
+    "merchant": "Gas Company",
+    "category": "Bills & Utilities",
+    "amount": 1221
+  },
+  {
+    "description": "phone",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 9445
+  },
+  {
+    "description": "game purchase",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 536
+  },
+  {
+    "description": "taxi at ADNOC",
+    "merchant": "ADNOC",
+    "category": "Transportation",
+    "amount": 106
+  },
+  {
+    "description": "family dinner from Oscar Market",
+    "merchant": "Oscar Market",
+    "category": "Food & Dining",
+    "amount": 386
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 608
+  },
+  {
+    "description": "careem trip from Tneen Bike",
+    "merchant": "Tneen Bike",
+    "category": "Transportation",
+    "amount": 145
+  },
+  {
+    "description": "commute from Total",
+    "merchant": "Total",
+    "category": "Transportation",
+    "amount": 48
+  },
+  {
+    "description": "massage",
+    "merchant": "",
+    "category": "Personal Care",
+    "amount": 1890
+  },
+  {
+    "description": "uber to mall at Auto Service",
+    "merchant": "Auto Service",
+    "category": "Transportation",
+    "amount": 250
+  },
+  {
+    "description": "gasoline from Mobil",
+    "merchant": "Mobil",
+    "category": "Transportation",
+    "amount": 236
+  },
+  {
+    "description": "shawarma from Cilantro",
+    "merchant": "Cilantro",
+    "category": "Food & Dining",
+    "amount": 345
+  },
+  {
+    "description": "shopping spree at H&M",
+    "merchant": "H&M",
+    "category": "Shopping",
+    "amount": 8062
+  },
+  {
+    "description": "online order from Home Centre",
+    "merchant": "Home Centre",
+    "category": "Shopping",
+    "amount": 7425
+  },
+  {
+    "description": "pizza order from Starbucks",
+    "merchant": "Starbucks",
+    "category": "Food & Dining",
+    "amount": 413
+  },
+  {
+    "description": "books at BUE",
+    "merchant": "BUE",
+    "category": "Education",
+    "amount": 337
+  },
+  {
+    "description": "paid 60 for commute",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 60
+  },
+  {
+    "description": "bus fare",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 460
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 442
+  },
+  {
+    "description": "diesel from Total",
+    "merchant": "Total",
+    "category": "Transportation",
+    "amount": 191
+  },
+  {
+    "description": "uber ride at Gas Station",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 183
+  },
+  {
+    "description": "dessert",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 563
+  },
+  {
+    "description": "food delivery from Subway",
+    "merchant": "Subway",
+    "category": "Food & Dining",
+    "amount": 261
+  },
+  {
+    "description": "shirt at Defacto",
+    "merchant": "Defacto",
+    "category": "Shopping",
+    "amount": 6207
+  },
+  {
+    "description": "commute at Careem",
+    "merchant": "Careem",
+    "category": "Transportation",
+    "amount": 165
+  },
+  {
+    "description": "shawarma",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 472
+  },
+  {
+    "description": "jeans",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 355
+  },
+  {
+    "description": "cable tv at Electricity Company",
+    "merchant": "Electricity Company",
+    "category": "Bills & Utilities",
+    "amount": 746
+  },
+  {
+    "description": "takeout from Carrefour",
+    "merchant": "Carrefour",
+    "category": "Food & Dining",
+    "amount": 230
+  },
+  {
+    "description": "fast food at Andrea's",
+    "merchant": "Andrea's",
+    "category": "Food & Dining",
+    "amount": 365
+  },
+  {
+    "description": "paid 375 for airport ride",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 375
+  },
+  {
+    "description": "streaming service at Spotify",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 918
+  },
+  {
+    "description": "airport ride at Swvl",
+    "merchant": "Swvl",
+    "category": "Transportation",
+    "amount": 379
+  },
+  {
+    "description": "parking fee at DiDi",
+    "merchant": "DiDi",
+    "category": "Transportation",
+    "amount": 29
+  },
+  {
+    "description": "restaurant meal at Spinneys",
+    "merchant": "Spinneys",
+    "category": "Food & Dining",
+    "amount": 641
+  },
+  {
+    "description": "paid 5541 for tourism",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 5541
+  },
+  {
+    "description": "electricity bill from Electricity Company",
+    "merchant": "Electricity Company",
+    "category": "Bills & Utilities",
+    "amount": 1477
+  },
+  {
+    "description": "koshary from Kazaz",
+    "merchant": "Kazaz",
+    "category": "Food & Dining",
+    "amount": 713
+  },
+  {
+    "description": "furniture",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 9152
+  },
+  {
+    "description": "paid 5284 for jeans",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 5284
+  },
+  {
+    "description": "paid 177 for ride home",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 177
+  },
+  {
+    "description": "movies at Spotify",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 255
+  },
+  {
+    "description": "monthly groceries",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 512
+  },
+  {
+    "description": "paid 12650 for hotel booking",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 12650
+  },
+  {
+    "description": "lab tests",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 3993
+  },
+  {
+    "description": "paid 24 for benzene",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 24
+  },
+  {
+    "description": "furniture at Pottery Barn",
+    "merchant": "Pottery Barn",
+    "category": "Shopping",
+    "amount": 5431
+  },
+  {
+    "description": "x-ray from 19011 Pharmacy",
+    "merchant": "19011 Pharmacy",
+    "category": "Healthcare",
+    "amount": 3384
+  },
+  {
+    "description": "furniture at Marks & Spencer",
+    "merchant": "Marks & Spencer",
+    "category": "Shopping",
+    "amount": 7201
+  },
+  {
+    "description": "uber to mall from InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 271
+  },
+  {
+    "description": "utilities from beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 598
+  },
+  {
+    "description": "gasoline at InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 181
+  },
+  {
+    "description": "sneakers",
+    "merchant": "",
+    "category": "Shopping",
+    "amount": 1305
+  },
+  {
+    "description": "paid 922 for personal trainer",
+    "merchant": "",
+    "category": "Entertainment",
+    "amount": 922
+  },
+  {
+    "description": "electricity bill at Electricity Company",
+    "merchant": "Electricity Company",
+    "category": "Bills & Utilities",
+    "amount": 1202
+  },
+  {
+    "description": "uber to mall at DiDi",
+    "merchant": "DiDi",
+    "category": "Transportation",
+    "amount": 201
+  },
+  {
+    "description": "wifi at beIN Sports",
+    "merchant": "beIN Sports",
+    "category": "Bills & Utilities",
+    "amount": 885
+  },
+  {
+    "description": "brunch from Al Omda",
+    "merchant": "Al Omda",
+    "category": "Food & Dining",
+    "amount": 78
+  },
+  {
+    "description": "burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 631
+  },
+  {
+    "description": "flight ticket",
+    "merchant": "",
+    "category": "Travel",
+    "amount": 17772
+  },
+  {
+    "description": "car wash at InDrive",
+    "merchant": "InDrive",
+    "category": "Transportation",
+    "amount": 448
+  },
+  {
+    "description": "burger meal",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 614
+  },
+  {
+    "description": "restaurant meal from Seoudi",
+    "merchant": "Seoudi",
+    "category": "Food & Dining",
+    "amount": 80
+  },
+  {
+    "description": "dinner at Cook Door",
+    "merchant": "Cook Door",
+    "category": "Food & Dining",
+    "amount": 190
+  },
+  {
+    "description": "kitchenware from Vodafone Store",
+    "merchant": "Vodafone Store",
+    "category": "Shopping",
+    "amount": 4697
+  },
+  {
+    "description": "coffee",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 103
+  },
+  {
+    "description": "udemy course",
+    "merchant": "",
+    "category": "Education",
+    "amount": 16506
+  },
+  {
+    "description": "car wash at Gas Station",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 248
+  },
+  {
+    "description": "phone from Noon",
+    "merchant": "Noon",
+    "category": "Shopping",
+    "amount": 3672
+  },
+  {
+    "description": "pizza order",
+    "merchant": "",
+    "category": "Food & Dining",
+    "amount": 119
+  },
+  {
+    "description": "gas refill from Gas Station",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 346
+  },
+  {
+    "description": "pharmacy",
+    "merchant": "",
+    "category": "Healthcare",
+    "amount": 3004
+  },
+  {
+    "description": "paid 423 for careem trip",
+    "merchant": "",
+    "category": "Transportation",
+    "amount": 423
+  }
+]

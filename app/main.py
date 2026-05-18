@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.routes import categorization, nlp, recommendation, insights, speech
+from app.api.routes import categorization, nlp, recommendation, insights, speech, training
 
 app = FastAPI(
     title="Expensia AI Service",
@@ -22,6 +22,7 @@ app.include_router(nlp.router, prefix="/api", tags=["NLP Parsing"])
 app.include_router(recommendation.router, prefix="/api", tags=["Recommendations"])
 app.include_router(insights.router, prefix="/api", tags=["Insights & Analytics"])
 app.include_router(speech.router, prefix="/api", tags=["Speech-to-Text"])
+app.include_router(training.router, prefix="/api", tags=["Training"])
 
 @app.get("/")
 def root():
