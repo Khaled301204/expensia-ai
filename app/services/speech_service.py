@@ -21,7 +21,7 @@ class SpeechService:
         for ffmpeg_path in ffmpeg_paths:
             if os.path.exists(ffmpeg_path):
                 os.environ["PATH"] = ffmpeg_path + os.pathsep + os.environ.get("PATH", "")
-                print(f"✅ FFmpeg found at: {ffmpeg_path}")
+                print(f"FFmpeg found at: {ffmpeg_path}")
                 break
         
         print("Loading Whisper model... (first run downloads ~150MB)")
