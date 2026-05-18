@@ -1,6 +1,8 @@
 from pydantic import BaseModel
 from typing import Optional, List
 
+# ========== CATEGORIZATION MODELS ==========
+
 class CategorizeRequest(BaseModel):
     description: str
     merchant: Optional[str] = None
@@ -16,6 +18,9 @@ class TrainingData(BaseModel):
     description: str
     merchant: Optional[str] = None
     category: str
+
+
+# ========== NLP PARSING MODELS ==========
 
 class ParseExpenseRequest(BaseModel):
     text: str
@@ -34,7 +39,22 @@ class ParseExpenseResponse(BaseModel):
     parsed: ParsedExpenseData
     original_text: str
 
-from typing import List
+
+# ========== SPEECH-TO-TEXT MODELS ========== (NEW)
+
+class ExpenseParseResponse(BaseModel):
+    """Response for parsed expense with optional speech metadata"""
+    success: bool
+    amount: Optional[float] = None
+    merchant: Optional[str] = None
+    description: Optional[str] = None
+    date: Optional[str] = None
+    category: Optional[str] = None
+    confidence: Optional[float] = None
+    speech_metadata: Optional[dict] = None  # Speech-to-text metadata
+
+
+# ========== RECOMMENDATION MODELS ==========
 
 class RecommendationRequest(BaseModel):
     user_id: int
@@ -72,7 +92,7 @@ class GoalPlan(BaseModel):
     current_amount: float
     monthly_saving_required: float
     months_to_goal: int
-    feasibility: str  # "EASY", "MODERATE", "DIFFICULT"
+    feasibility: str  # "EASY", "MODERATE", "DIFFICULT", "IMPOSSIBLE"
     recommendation: str
 
 class RecommendationResponse(BaseModel):
@@ -82,6 +102,7 @@ class RecommendationResponse(BaseModel):
     investment_suggestions: List[InvestmentSuggestion]
     goal_plans: Optional[List[GoalPlan]] = None
     overall_score: float  # 0-100 financial health score
+
 
 # ========== PATTERN DETECTION MODELS ==========
 
