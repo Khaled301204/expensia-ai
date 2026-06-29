@@ -99,9 +99,11 @@ async def speech_to_expense(
             )
         
         transcript = speech_result["transcript"]
+        print("VOICE TRANSCRIPT:", transcript)
         
         # Step 2: Parse expense data from transcript
         parsed_data = nlp_service.parse_expense(transcript, language="en")
+        print("PARSED DATA:", parsed_data)
         
         # Step 3: Categorize the expense
         category = None
